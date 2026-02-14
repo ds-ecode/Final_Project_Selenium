@@ -9,8 +9,34 @@ import java.util.Date;
 import java.util.List;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.apache.poi.ss.usermodel.DataFormatter;
 
 public class ExcelUtils {
+
+    public static String[] readCredentials(String filePath, String sheetName) throws IOException {
+        try (FileInputStream fis = new FileInputStream(new File(filePath));
+             Workbook workbook = WorkbookFactory.create(fis)) {
+
+            Sheet sheet = workbook.getSheet(sheetName);
+            if (sheet == null) {
+                throw new IllegalArgumentException("Sheet not found: " + sheetName);
+            }
+
+            // Assumption: Row 0 is header => Row 1 contains data
+            Row row = sheet.getRow(1);
+            if (row == null) {
+                throw new IllegalStateException("No data row found in sheet: " + sheetName);
+            }
+
+            DataFormatter formatter = new DataFormatter();
+
+            String email = formatter.formatCellValue(row.getCell(0)).trim();
+            String password = formatter.formatCellValue(row.getCell(1)).trim();
+
+            return new String[]{ email, password };
+        }
+    }
+
     public static void writeToExcel(String filePath, String sheetName, List<String[]> data, String[] headers) throws IOException {
         Workbook workbook;
         File file = new File(filePath);

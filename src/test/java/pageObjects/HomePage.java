@@ -2,6 +2,7 @@ package pageObjects;
 
 import java.time.Duration;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -9,6 +10,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import factory.BaseClass;
 
 public class HomePage extends BasePage
@@ -68,5 +70,36 @@ public class HomePage extends BasePage
         logger.info("Clicking on 'Used Cars' option...");
         used_cars.click();
     }
-	
+
+
+    // Google Login Feature 3
+
+    private By loginTrigger = By.xpath(
+            "//a[contains(.,'Login') or contains(.,'Sign in') or contains(@data-track-label,'login') or contains(@class,'signin')]"
+    );
+
+
+    private By googleLoginBtn = By.xpath(
+            "//span[contains(text(),'Continue with Google') or contains(text(),'Google')]/ancestor::*[self::a or self::button or self::div]"
+    );
+
+
+    public void openLogin() {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
+        logger.info("Opening Login popup/modal...");
+        WebElement login = wait.until(ExpectedConditions.elementToBeClickable(loginTrigger));
+        login.click();
+        logger.info("Login UI opened.");
+    }
+
+
+    public void clickContinueWithGoogle() {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
+        logger.info("Clicking 'Continue with Google'...");
+        WebElement googleBtn = wait.until(ExpectedConditions.elementToBeClickable(googleLoginBtn));
+        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", googleBtn);
+    }
+
+
+
 }
