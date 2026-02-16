@@ -23,7 +23,7 @@ public class ExcelUtils {
             }
 
             // Assumption: Row 0 is header => Row 1 contains data
-            Row row = sheet.getRow(1);
+            Row row = sheet.getRow(0);
             if (row == null) {
                 throw new IllegalStateException("No data row found in sheet: " + sheetName);
             }

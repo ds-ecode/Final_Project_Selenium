@@ -75,12 +75,12 @@ public class HomePage extends BasePage
     // Google Login Feature 3
 
     private By loginTrigger = By.xpath(
-            "//a[contains(.,'Login') or contains(.,'Sign in') or contains(@data-track-label,'login') or contains(@class,'signin')]"
+            "//*[@id='forum_login_div_lg']"//Profile-Icon
     );
 
 
     private By googleLoginBtn = By.xpath(
-            "//span[contains(text(),'Continue with Google') or contains(text(),'Google')]/ancestor::*[self::a or self::button or self::div]"
+            "//div[@class='lgn-sc c-p txt-l pl-30 pr-30 googleSignIn']"
     );
 
 

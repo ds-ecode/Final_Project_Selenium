@@ -7,7 +7,8 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-    features = {".//features//basic.feature",
+    features = {
+            ".//features//basic.feature",
             ".//features//usedcars.feature",
             ".//features//googlelogin.feature"
     },

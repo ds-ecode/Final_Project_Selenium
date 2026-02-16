@@ -78,7 +78,7 @@ public class UsedCarsPage extends BasePage
             }
 
             // Scroll down by 1000 pixels
-            js.executeScript("window.scrollBy(0, 1000);");
+            js.executeScript("window.scrollBy(0, 5000);");
             
             // Short wait to allow the loader to fetch more results
             try { Thread.sleep(2000); } catch (InterruptedException e) {}

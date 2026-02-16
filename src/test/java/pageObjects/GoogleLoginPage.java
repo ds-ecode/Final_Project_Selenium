@@ -55,7 +55,7 @@ public class GoogleLoginPage extends BasePage {
         // We just proceed — the test is meant to fail anyway.
     }
 
-    public void attemptLogin(String email, String password) {
+    public boolean attemptLogin(String email, String password) {
         BaseClass.getLogger().info("Entering email on Google...");
         wait.until(ExpectedConditions.visibilityOf(emailInput)).clear();
         emailInput.sendKeys(email);
@@ -69,7 +69,9 @@ public class GoogleLoginPage extends BasePage {
             nextBtn.click();
         } catch (TimeoutException te) {
             BaseClass.getLogger().warn("Password field not visible. Google may have blocked automation or email invalid.");
+            return false;
         }
+        return true;
     }
 
     public boolean isErrorVisible() {
