@@ -15,7 +15,9 @@ import io.cucumber.junit.CucumberOptions;
     glue = {"stepDefinations","hooks"}, // Ensure this matches your package name!
     plugin= {
 					"pretty", "html:reports/myreport.html",   
-					"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",				
+					"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+                    "rerun:target/failed_scenarios.txt"
+
 		     }
 )
 

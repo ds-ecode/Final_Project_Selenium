@@ -1,3 +1,6 @@
+# features/GoogleLogin.feature
+
+@GoogleLogin
 Feature: Google login via ZigWheels
 
   Scenario: Attempt Google login with invalid credentials

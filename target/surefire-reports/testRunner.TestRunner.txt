@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 614.7 s <<< FAILURE! -- in testRunner.TestRunner
+Google login via ZigWheels.Attempt Google login with invalid credentials -- Time elapsed: 47.40 s <<< FAILURE!
+java.lang.AssertionError: Automation Blocked
+	at org.junit.Assert.fail(Assert.java:89)
+	at stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(LoginSteps.java:48)
+	at ✽.user attempts Google login with credentials from sheet "Google"(file:///C:/Users/2462058/Downloads/Identify_New_Bikes%20(1)/Identify_New_Bikes/./features/googlelogin.feature:9)
+

@@ -1,531 +1,474 @@
-16:13:48.619 [main] INFO  - ***** Starting Scenario execution *****
-16:13:53.325 [main] INFO  - Browser launched and navigated to URL.
-16:13:53.351 [main] INFO  - User is on the Home Page
-16:13:53.397 [main] INFO  - Hovering over 'More' menu...
-16:13:53.909 [main] INFO  - Clicking on 'Used Cars' option...
-16:14:02.727 [main] INFO  - Scrolled part 1 for Chennai
-16:14:07.754 [main] INFO  - Scrolled part 2 for Chennai
-16:14:12.777 [main] INFO  - Scrolled part 3 for Chennai
-16:14:17.795 [main] INFO  - Scrolled part 4 for Chennai
-16:14:22.824 [main] INFO  - Scrolled part 5 for Chennai
-16:14:27.849 [main] INFO  - Scrolled part 6 for Chennai
-16:14:32.880 [main] INFO  - Scrolled part 7 for Chennai
-16:14:37.909 [main] INFO  - Scrolled part 8 for Chennai
-16:14:42.940 [main] INFO  - Scrolled part 9 for Chennai
-16:14:47.958 [main] INFO  - Scrolled part 10 for Chennai
-16:14:52.985 [main] INFO  - Scrolled part 11 for Chennai
-16:14:58.009 [main] INFO  - Scrolled part 12 for Chennai
-16:15:07.876 [main] INFO  - Extraction complete for city: Chennai
-16:15:07.936 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:15:07.938 [main] INFO  - ***** Ending Scenario execution *****
-16:15:13.713 [main] INFO  - ***** Starting Scenario execution *****
-16:15:21.096 [main] INFO  - Browser launched and navigated to URL.
-16:15:21.098 [main] INFO  - User is on the Home Page
-16:15:21.101 [main] INFO  - Hovering over 'More' menu...
-16:15:21.398 [main] INFO  - Clicking on 'Used Cars' option...
-16:15:32.019 [main] INFO  - Scrolled part 1 for Bangalore
-16:15:37.043 [main] INFO  - Scrolled part 2 for Bangalore
-16:15:42.063 [main] INFO  - Scrolled part 3 for Bangalore
-16:15:47.085 [main] INFO  - Scrolled part 4 for Bangalore
-16:15:52.102 [main] INFO  - Scrolled part 5 for Bangalore
-16:15:57.127 [main] INFO  - Scrolled part 6 for Bangalore
-16:16:02.138 [main] INFO  - Scrolled part 7 for Bangalore
-16:16:07.151 [main] INFO  - Scrolled part 8 for Bangalore
-16:16:12.160 [main] INFO  - Scrolled part 9 for Bangalore
-16:16:17.182 [main] INFO  - Scrolled part 10 for Bangalore
-16:16:22.204 [main] INFO  - Scrolled part 11 for Bangalore
-16:16:27.219 [main] INFO  - Scrolled part 12 for Bangalore
-16:16:39.193 [main] INFO  - Extraction complete for city: Bangalore
-16:16:39.221 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:16:39.223 [main] INFO  - ***** Ending Scenario execution *****
-16:16:44.922 [main] INFO  - ***** Starting Scenario execution *****
-16:16:52.477 [main] INFO  - Browser launched and navigated to URL.
-16:16:52.478 [main] INFO  - User is on the Home Page
-16:16:52.479 [main] INFO  - Hovering over 'More' menu...
-16:16:52.697 [main] INFO  - Clicking on 'Used Cars' option...
-16:17:01.727 [main] INFO  - Scrolled part 1 for Mumbai
-16:17:06.742 [main] INFO  - Scrolled part 2 for Mumbai
-16:17:11.760 [main] INFO  - Scrolled part 3 for Mumbai
-16:17:16.775 [main] INFO  - Scrolled part 4 for Mumbai
-16:17:21.790 [main] INFO  - Scrolled part 5 for Mumbai
-16:17:26.806 [main] INFO  - Scrolled part 6 for Mumbai
-16:17:31.840 [main] INFO  - Scrolled part 7 for Mumbai
-16:17:36.860 [main] INFO  - Scrolled part 8 for Mumbai
-16:17:41.882 [main] INFO  - Scrolled part 9 for Mumbai
-16:17:46.903 [main] INFO  - Scrolled part 10 for Mumbai
-16:17:51.920 [main] INFO  - Scrolled part 11 for Mumbai
-16:17:56.937 [main] INFO  - Scrolled part 12 for Mumbai
-16:18:06.178 [main] INFO  - Extraction complete for city: Mumbai
-16:18:06.206 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:18:06.206 [main] INFO  - ***** Ending Scenario execution *****
-16:29:21.009 [main] INFO  - ***** Starting Scenario execution *****
-16:29:28.760 [main] INFO  - Browser launched and navigated to URL.
-16:29:28.786 [main] INFO  - User is on the Home Page
-16:29:28.884 [main] INFO  - Hovering over 'More' menu...
-16:29:29.188 [main] INFO  - Clicking on 'Used Cars' option...
-16:29:32.337 [main] INFO  - Starting infinite scroll for Chennai
-16:29:52.995 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:30:01.256 [main] INFO  - Extraction complete for city: Chennai
-16:30:01.304 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:30:01.304 [main] INFO  - ***** Ending Scenario execution *****
-16:30:07.929 [main] INFO  - ***** Starting Scenario execution *****
-16:30:14.641 [main] INFO  - Browser launched and navigated to URL.
-16:30:14.644 [main] INFO  - User is on the Home Page
-16:30:14.645 [main] INFO  - Hovering over 'More' menu...
-16:30:14.838 [main] INFO  - Clicking on 'Used Cars' option...
-16:30:23.107 [main] INFO  - Starting infinite scroll for Bangalore
-16:30:23.135 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:30:23.446 [main] INFO  - Extraction complete for city: Bangalore
-16:30:23.497 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:30:23.500 [main] INFO  - ***** Ending Scenario execution *****
-16:30:30.373 [main] INFO  - ***** Starting Scenario execution *****
-16:30:35.984 [main] INFO  - Browser launched and navigated to URL.
-16:30:35.986 [main] INFO  - User is on the Home Page
-16:30:35.987 [main] INFO  - Hovering over 'More' menu...
-16:30:36.204 [main] INFO  - Clicking on 'Used Cars' option...
-16:30:42.913 [main] INFO  - Starting infinite scroll for Mumbai
-16:32:07.255 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:33:04.471 [main] INFO  - Extraction complete for city: Mumbai
-16:33:04.500 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:33:04.500 [main] INFO  - ***** Ending Scenario execution *****
-16:35:32.510 [main] INFO  - ***** Starting Scenario execution *****
-16:35:37.473 [main] INFO  - Browser launched and navigated to URL.
-16:35:37.491 [main] INFO  - User is on the Home Page
-16:35:37.529 [main] INFO  - Hovering over 'More' menu...
-16:35:37.835 [main] INFO  - Clicking on 'Used Cars' option...
-16:35:40.367 [main] INFO  - Starting infinite scroll for Chennai
-16:36:05.081 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:36:17.138 [main] INFO  - Extraction complete for city: Chennai
-16:36:17.181 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:36:17.181 [main] INFO  - ***** Ending Scenario execution *****
-16:36:22.153 [main] INFO  - ***** Starting Scenario execution *****
-16:36:28.796 [main] INFO  - Browser launched and navigated to URL.
-16:36:28.799 [main] INFO  - User is on the Home Page
-16:36:28.802 [main] INFO  - Hovering over 'More' menu...
-16:36:29.219 [main] INFO  - Clicking on 'Used Cars' option...
-16:36:32.504 [main] INFO  - Starting infinite scroll for Bangalore
-16:37:56.705 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:38:57.639 [main] INFO  - Extraction complete for city: Bangalore
-16:38:57.669 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:38:57.669 [main] INFO  - ***** Ending Scenario execution *****
-16:39:06.004 [main] INFO  - ***** Starting Scenario execution *****
-16:39:14.619 [main] INFO  - Browser launched and navigated to URL.
-16:39:14.623 [main] INFO  - User is on the Home Page
-16:39:14.625 [main] INFO  - Hovering over 'More' menu...
-16:39:14.906 [main] INFO  - Clicking on 'Used Cars' option...
-16:39:19.699 [main] INFO  - Starting infinite scroll for Mumbai
-16:41:45.164 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:42:30.594 [main] INFO  - Extraction complete for city: Mumbai
-16:42:30.627 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:42:30.627 [main] INFO  - ***** Ending Scenario execution *****
-16:47:47.690 [main] INFO  - ***** Starting Scenario execution *****
-16:47:56.157 [main] INFO  - Browser launched and navigated to URL.
-16:47:56.203 [main] INFO  - User is on the Home Page
-16:47:56.330 [main] INFO  - Hovering over 'New Bikes' menu...
-16:47:57.057 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-16:48:00.567 [main] INFO  - Successfully clicked Royal Enfield
-16:48:00.695 [main] INFO  - Verifying page header for: Royal Enfield
-16:48:05.879 [main] INFO  - Excel generated for Royal Enfield with TimeStamp column.
-16:48:05.895 [main] INFO  - Data export completed for: Royal Enfield
-16:48:05.895 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-16:48:05.895 [main] INFO  - ***** Ending Scenario execution *****
-16:48:12.356 [main] INFO  - ***** Starting Scenario execution *****
-16:48:20.595 [main] INFO  - Browser launched and navigated to URL.
-16:48:20.595 [main] INFO  - User is on the Home Page
-16:48:20.595 [main] INFO  - Hovering over 'New Bikes' menu...
-16:48:20.997 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-16:48:24.295 [main] INFO  - Successfully clicked Yamaha
-16:48:24.374 [main] INFO  - Verifying page header for: Yamaha
-16:48:26.234 [main] INFO  - Excel generated for Yamaha with TimeStamp column.
-16:48:26.234 [main] INFO  - Data export completed for: Yamaha
-16:48:26.262 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-16:48:26.262 [main] INFO  - ***** Ending Scenario execution *****
-16:48:31.592 [main] INFO  - ***** Starting Scenario execution *****
-16:48:38.912 [main] INFO  - Browser launched and navigated to URL.
-16:48:38.912 [main] INFO  - User is on the Home Page
-16:48:38.918 [main] INFO  - Hovering over 'New Bikes' menu...
-16:48:39.682 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-16:48:43.589 [main] INFO  - Successfully clicked TVS
-16:48:43.673 [main] INFO  - Verifying page header for: TVS
-16:48:44.270 [main] INFO  - Excel generated for TVS with TimeStamp column.
-16:48:44.270 [main] INFO  - Data export completed for: TVS
-16:48:44.270 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-16:48:44.270 [main] INFO  - ***** Ending Scenario execution *****
-16:48:49.282 [main] INFO  - ***** Starting Scenario execution *****
-16:48:57.315 [main] INFO  - Browser launched and navigated to URL.
-16:48:57.323 [main] INFO  - User is on the Home Page
-16:48:57.324 [main] INFO  - Hovering over 'New Bikes' menu...
-16:48:57.713 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-16:49:01.176 [main] INFO  - Successfully clicked Bajaj
-16:49:01.281 [main] INFO  - Verifying page header for: Bajaj
-16:49:01.963 [main] INFO  - Excel generated for Bajaj with TimeStamp column.
-16:49:01.963 [main] INFO  - Data export completed for: Bajaj
-16:49:01.963 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-16:49:01.963 [main] INFO  - ***** Ending Scenario execution *****
-16:49:06.945 [main] INFO  - ***** Starting Scenario execution *****
-16:49:15.204 [main] INFO  - Browser launched and navigated to URL.
-16:49:15.212 [main] INFO  - User is on the Home Page
-16:49:15.212 [main] INFO  - Hovering over 'New Bikes' menu...
-16:49:15.609 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-16:49:18.904 [main] INFO  - Successfully clicked Hero Moto Corp
-16:49:18.985 [main] INFO  - Verifying page header for: Hero Moto Corp
-16:49:19.588 [main] INFO  - Excel generated for Hero Moto Corp with TimeStamp column.
-16:49:19.588 [main] INFO  - Data export completed for: Hero Moto Corp
-16:49:19.588 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-16:49:19.604 [main] INFO  - ***** Ending Scenario execution *****
-16:49:24.871 [main] INFO  - ***** Starting Scenario execution *****
-16:49:32.427 [main] INFO  - Browser launched and navigated to URL.
-16:49:32.435 [main] INFO  - User is on the Home Page
-16:49:32.440 [main] INFO  - Hovering over 'More' menu...
-16:49:32.846 [main] INFO  - Clicking on 'Used Cars' option...
-16:49:37.222 [main] INFO  - Starting infinite scroll for Chennai
-16:50:02.579 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:50:22.689 [main] INFO  - Extraction complete for city: Chennai
-16:50:22.768 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:50:22.768 [main] INFO  - ***** Ending Scenario execution *****
-16:50:30.806 [main] INFO  - ***** Starting Scenario execution *****
-16:50:38.707 [main] INFO  - Browser launched and navigated to URL.
-16:50:38.713 [main] INFO  - User is on the Home Page
-16:50:38.713 [main] INFO  - Hovering over 'More' menu...
-16:50:39.008 [main] INFO  - Clicking on 'Used Cars' option...
-16:50:44.896 [main] INFO  - Starting infinite scroll for Bangalore
-16:52:10.220 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-16:54:26.650 [main] INFO  - Extraction complete for city: Bangalore
-16:54:26.712 [main] INFO  - Scenario PASSED: Checking Used cars page
-16:54:26.712 [main] INFO  - ***** Ending Scenario execution *****
-16:54:38.147 [main] INFO  - ***** Starting Scenario execution *****
-16:54:48.222 [main] INFO  - Browser launched and navigated to URL.
-16:54:48.222 [main] INFO  - User is on the Home Page
-16:54:48.236 [main] INFO  - Hovering over 'More' menu...
-15:38:12.106 [main] INFO  - ***** Starting Scenario execution *****
-15:38:28.743 [main] INFO  - Browser launched and navigated to URL.
-15:38:28.765 [main] INFO  - User is on the Home Page
-15:38:28.862 [main] INFO  - Hovering over 'New Bikes' menu...
-15:38:29.440 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-15:38:34.737 [main] INFO  - Successfully clicked Royal Enfield
-15:38:35.014 [main] INFO  - Verifying page header for: Royal Enfield
-15:38:38.935 [main] INFO  - Excel generated for Royal Enfield with TimeStamp column.
-15:38:38.935 [main] INFO  - Data export completed for: Royal Enfield
-15:38:38.939 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-15:38:38.939 [main] INFO  - ***** Ending Scenario execution *****
-15:38:44.387 [main] INFO  - ***** Starting Scenario execution *****
-15:38:44.893 [main] INFO  - ***** Starting Scenario execution *****
-15:38:55.835 [main] INFO  - Browser launched and navigated to URL.
-15:38:55.840 [main] INFO  - User is on the Home Page
-15:38:55.842 [main] INFO  - Hovering over 'New Bikes' menu...
-15:38:56.429 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-15:38:58.763 [main] INFO  - Browser launched and navigated to URL.
-15:38:58.831 [main] INFO  - User is on the Home Page
-15:38:59.347 [main] INFO  - Hovering over 'New Bikes' menu...
-15:39:00.479 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-15:39:03.673 [main] INFO  - Successfully clicked Yamaha
-15:39:04.106 [main] INFO  - Verifying page header for: Yamaha
-15:39:04.508 [main] INFO  - Successfully clicked Royal Enfield
-15:39:04.699 [main] INFO  - Verifying page header for: Royal Enfield
-15:39:08.214 [main] INFO  - Excel generated for Yamaha with TimeStamp column.
-15:39:08.214 [main] INFO  - Data export completed for: Yamaha
-15:39:08.230 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-15:39:08.230 [main] INFO  - ***** Ending Scenario execution *****
-15:39:10.900 [main] INFO  - Excel generated for Royal Enfield with TimeStamp column.
-15:39:10.900 [main] INFO  - Data export completed for: Royal Enfield
-15:39:10.916 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-15:39:10.916 [main] INFO  - ***** Ending Scenario execution *****
-15:39:19.592 [main] INFO  - ***** Starting Scenario execution *****
-15:39:21.170 [main] INFO  - ***** Starting Scenario execution *****
-15:39:26.764 [main] INFO  - Browser launched and navigated to URL.
-15:39:26.764 [main] INFO  - User is on the Home Page
-15:39:26.766 [main] INFO  - Hovering over 'New Bikes' menu...
-15:39:31.590 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-15:39:37.914 [main] ERROR - Scenario FAILED: Verify upcoming bikes for different manufacturers
-15:39:39.279 [main] INFO  - ***** Ending Scenario execution *****
-15:39:42.173 [main] ERROR - Scenario FAILED: Verify upcoming bikes for different manufacturers
-15:39:42.542 [main] INFO  - ***** Ending Scenario execution *****
-15:39:49.355 [main] INFO  - ***** Starting Scenario execution *****
-15:39:50.188 [main] INFO  - ***** Starting Scenario execution *****
-15:40:05.231 [main] ERROR - Scenario FAILED: Verify upcoming bikes for different manufacturers
-15:40:05.905 [main] ERROR - Scenario FAILED: Verify upcoming bikes for different manufacturers
-15:40:06.337 [main] INFO  - ***** Ending Scenario execution *****
-15:40:07.143 [main] INFO  - ***** Ending Scenario execution *****
-15:40:13.553 [main] INFO  - ***** Starting Scenario execution *****
-15:40:13.988 [main] INFO  - ***** Starting Scenario execution *****
-15:40:29.542 [main] ERROR - Scenario FAILED: Verify upcoming bikes for different manufacturers
-15:40:30.662 [main] INFO  - ***** Ending Scenario execution *****
-15:40:30.810 [main] INFO  - Browser launched and navigated to URL.
-15:40:30.819 [main] INFO  - User is on the Home Page
-15:40:30.822 [main] INFO  - Hovering over 'New Bikes' menu...
-15:40:31.262 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-15:40:38.874 [main] INFO  - ***** Starting Scenario execution *****
-15:40:39.380 [main] INFO  - Successfully clicked Hero Moto Corp
-15:40:39.487 [main] INFO  - Verifying page header for: Hero Moto Corp
-15:40:40.293 [main] INFO  - Excel generated for Hero Moto Corp with TimeStamp column.
-15:40:40.293 [main] INFO  - Data export completed for: Hero Moto Corp
-15:40:40.293 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-15:40:40.293 [main] INFO  - ***** Ending Scenario execution *****
-15:40:49.806 [main] INFO  - Browser launched and navigated to URL.
-15:40:49.806 [main] INFO  - User is on the Home Page
-15:40:49.806 [main] INFO  - Hovering over 'New Bikes' menu...
-15:40:50.306 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-15:40:58.687 [main] INFO  - Successfully clicked Hero Moto Corp
-15:40:59.097 [main] INFO  - Verifying page header for: Hero Moto Corp
-15:41:00.191 [main] INFO  - Excel generated for Hero Moto Corp with TimeStamp column.
-15:41:00.191 [main] INFO  - Data export completed for: Hero Moto Corp
-15:41:00.191 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-15:41:00.191 [main] INFO  - ***** Ending Scenario execution *****
-16:09:47.723 [main] INFO  - ***** Starting Scenario execution *****
-16:10:03.037 [main] INFO  - Browser launched and navigated to URL.
-16:10:03.054 [main] INFO  - User is on the Home Page
-16:10:03.096 [main] INFO  - Scenario PASSED: Attempt Google login with invalid credentials (intentionally fail)
-16:10:03.096 [main] INFO  - ***** Ending Scenario execution *****
-22:46:39.158 [main] INFO  - ***** Starting Scenario execution *****
-22:47:14.549 [main] INFO  - ***** Starting Scenario execution *****
-22:47:31.103 [main] INFO  - Browser launched and navigated to URL.
-22:47:31.158 [main] INFO  - User is on the Home Page
-22:47:31.336 [main] INFO  - Opening login and clicking Continue with Google...
-22:47:31.352 [main] INFO  - Opening Login popup/modal...
-22:47:46.695 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials (intentionally fail)
-22:47:47.649 [main] INFO  - ***** Ending Scenario execution *****
-23:00:48.085 [main] INFO  - ***** Starting Scenario execution *****
-23:01:02.064 [main] INFO  - Browser launched and navigated to URL.
-23:01:02.131 [main] INFO  - User is on the Home Page
-23:01:02.247 [main] INFO  - Opening login and clicking Continue with Google...
-23:01:02.262 [main] INFO  - Opening Login popup/modal...
-23:01:02.809 [main] INFO  - Login UI opened.
-23:01:02.809 [main] INFO  - Clicking 'Continue with Google'...
-23:01:03.113 [main] INFO  - Waiting for Google login window to open...
-23:01:23.450 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-23:01:24.924 [main] INFO  - ***** Ending Scenario execution *****
-17:02:41.460 [main] INFO  - ***** Starting Scenario execution *****
-17:02:57.054 [main] INFO  - Browser launched and navigated to URL.
-17:02:57.107 [main] INFO  - User is on the Home Page
-17:02:57.230 [main] INFO  - Opening login and clicking Continue with Google...
-17:02:57.245 [main] INFO  - Opening Login popup/modal...
-17:02:57.853 [main] INFO  - Login UI opened.
-17:02:57.853 [main] INFO  - Clicking 'Continue with Google'...
-17:02:58.082 [main] INFO  - Waiting for Google login window to open...
-17:03:18.468 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-17:03:19.594 [main] INFO  - ***** Ending Scenario execution *****
-17:03:36.953 [main] INFO  - ***** Starting Scenario execution *****
-17:03:49.249 [main] INFO  - Browser launched and navigated to URL.
-17:03:49.298 [main] INFO  - User is on the Home Page
-17:03:49.411 [main] INFO  - Opening login and clicking Continue with Google...
-17:03:49.428 [main] INFO  - Opening Login popup/modal...
-17:03:49.936 [main] INFO  - Login UI opened.
-17:03:49.936 [main] INFO  - Clicking 'Continue with Google'...
-17:03:50.301 [main] INFO  - Waiting for Google login window to open...
-17:03:58.692 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-08:56:37.507 [main] INFO  - ***** Starting Scenario execution *****
-08:56:54.795 [main] INFO  - Browser launched and navigated to URL.
-08:56:54.843 [main] INFO  - User is on the Home Page
-08:56:54.981 [main] INFO  - Opening login and clicking Continue with Google...
-08:56:54.981 [main] INFO  - Opening Login popup/modal...
-08:56:55.569 [main] INFO  - Login UI opened.
-08:56:55.571 [main] INFO  - Clicking 'Continue with Google'...
-08:56:55.815 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-08:56:56.846 [main] INFO  - ***** Ending Scenario execution *****
-08:59:29.102 [main] INFO  - ***** Starting Scenario execution *****
-08:59:41.527 [main] INFO  - Browser launched and navigated to URL.
-08:59:41.580 [main] INFO  - User is on the Home Page
-08:59:41.725 [main] INFO  - Opening login and clicking Continue with Google...
-08:59:41.741 [main] INFO  - Opening Login popup/modal...
-08:59:42.368 [main] INFO  - Login UI opened.
-08:59:42.368 [main] INFO  - Clicking 'Continue with Google'...
-08:59:42.909 [main] INFO  - Waiting for Google login window to open...
-08:59:53.125 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:00:00.765 [main] INFO  - ***** Ending Scenario execution *****
-09:02:10.589 [main] INFO  - ***** Starting Scenario execution *****
-09:02:19.708 [main] INFO  - Browser launched and navigated to URL.
-09:02:19.762 [main] INFO  - User is on the Home Page
-09:02:19.918 [main] INFO  - Opening login and clicking Continue with Google...
-09:02:19.941 [main] INFO  - Opening Login popup/modal...
-09:02:29.579 [main] INFO  - Login UI opened.
-09:02:29.581 [main] INFO  - Clicking 'Continue with Google'...
-09:02:30.086 [main] INFO  - Waiting for Google login window to open...
-09:02:32.687 [main] INFO  - Switched to Google window. Title: 
-09:02:35.928 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:02:36.147 [main] INFO  - ***** Ending Scenario execution *****
-09:03:40.691 [main] INFO  - ***** Starting Scenario execution *****
-09:03:53.840 [main] INFO  - Browser launched and navigated to URL.
-09:03:53.900 [main] INFO  - User is on the Home Page
-09:03:54.069 [main] INFO  - Opening login and clicking Continue with Google...
-09:03:54.078 [main] INFO  - Opening Login popup/modal...
-09:03:54.687 [main] INFO  - Login UI opened.
-09:03:54.689 [main] INFO  - Clicking 'Continue with Google'...
-09:03:55.219 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:03:56.231 [main] INFO  - ***** Ending Scenario execution *****
-09:04:14.876 [main] INFO  - ***** Starting Scenario execution *****
-09:04:27.806 [main] INFO  - Browser launched and navigated to URL.
-09:04:27.859 [main] INFO  - User is on the Home Page
-09:04:28.022 [main] INFO  - Opening login and clicking Continue with Google...
-09:04:28.046 [main] INFO  - Opening Login popup/modal...
-09:04:28.597 [main] INFO  - Login UI opened.
-09:04:28.597 [main] INFO  - Clicking 'Continue with Google'...
-09:04:29.206 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:04:30.113 [main] INFO  - ***** Ending Scenario execution *****
-09:04:44.366 [main] INFO  - ***** Starting Scenario execution *****
-09:04:55.964 [main] INFO  - Browser launched and navigated to URL.
-09:04:56.008 [main] INFO  - User is on the Home Page
-09:04:56.147 [main] INFO  - Opening login and clicking Continue with Google...
-09:04:56.156 [main] INFO  - Opening Login popup/modal...
-09:04:56.814 [main] INFO  - Login UI opened.
-09:04:56.814 [main] INFO  - Clicking 'Continue with Google'...
-09:04:57.467 [main] INFO  - Waiting for Google login window to open...
-09:05:00.998 [main] INFO  - Switched to Google window. Title: 
-09:05:04.225 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:05:04.459 [main] INFO  - ***** Ending Scenario execution *****
-09:10:26.052 [main] INFO  - ***** Starting Scenario execution *****
-09:10:44.707 [main] INFO  - Browser launched and navigated to URL.
-09:10:44.800 [main] INFO  - User is on the Home Page
-09:10:45.015 [main] INFO  - Opening login and clicking Continue with Google...
-09:10:45.029 [main] INFO  - Opening Login popup/modal...
-09:10:46.127 [main] INFO  - Login UI opened.
-09:10:46.127 [main] INFO  - Clicking 'Continue with Google'...
-09:10:47.482 [main] INFO  - Waiting for Google login window to open...
-09:10:52.531 [main] INFO  - Switched to Google window. Title: Sign in - Google Accounts
-09:10:54.380 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
-09:10:54.381 [main] INFO  - Entering email on Google...
-09:10:55.743 [main] INFO  - Entering password on Google...
-09:11:29.201 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
-09:11:49.330 [main] ERROR - Google login failed as expected. Error: (No explicit error text captured)
-09:11:49.386 [main] ERROR - Intentionally failing the scenario after invalid login to capture screenshot & logs.
-09:11:49.431 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:11:50.761 [main] INFO  - ***** Ending Scenario execution *****
-09:14:41.292 [main] INFO  - ***** Starting Scenario execution *****
-09:14:52.071 [main] INFO  - Browser launched and navigated to URL.
-09:14:52.116 [main] INFO  - User is on the Home Page
-09:14:52.264 [main] INFO  - Opening login and clicking Continue with Google...
-09:14:52.276 [main] INFO  - Opening Login popup/modal...
-09:14:53.443 [main] INFO  - Login UI opened.
-09:14:53.443 [main] INFO  - Clicking 'Continue with Google'...
-09:14:53.659 [main] INFO  - Waiting for Google login window to open...
-09:15:14.183 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:15:15.046 [main] INFO  - ***** Ending Scenario execution *****
-09:15:33.769 [main] INFO  - ***** Starting Scenario execution *****
-09:15:43.936 [main] INFO  - Browser launched and navigated to URL.
-09:15:43.993 [main] INFO  - User is on the Home Page
-09:15:44.160 [main] INFO  - Opening login and clicking Continue with Google...
-09:15:44.175 [main] INFO  - Opening Login popup/modal...
-09:15:44.905 [main] INFO  - Login UI opened.
-09:15:44.905 [main] INFO  - Clicking 'Continue with Google'...
-09:15:45.471 [main] INFO  - Waiting for Google login window to open...
-09:15:47.441 [main] INFO  - Switched to Google window. Title: 
-09:15:50.264 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
-09:15:50.266 [main] INFO  - Entering email on Google...
-09:15:51.595 [main] INFO  - Entering password on Google...
-09:16:23.407 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
-09:16:23.447 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:16:23.624 [main] INFO  - ***** Ending Scenario execution *****
-09:27:23.257 [main] INFO  - ***** Starting Scenario execution *****
-09:27:37.164 [main] INFO  - Browser launched and navigated to URL.
-09:27:37.194 [main] INFO  - User is on the Home Page
-09:27:37.269 [main] INFO  - Opening login and clicking Continue with Google...
-09:27:37.275 [main] INFO  - Opening Login popup/modal...
-09:27:37.801 [main] INFO  - Login UI opened.
-09:27:37.801 [main] INFO  - Clicking 'Continue with Google'...
-09:27:38.462 [main] INFO  - Waiting for Google login window to open...
-09:27:41.137 [main] INFO  - Switched to Google window. Title: 
-09:27:43.998 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
-09:27:43.998 [main] INFO  - Entering email on Google...
-09:27:45.496 [main] INFO  - Entering password on Google...
-09:28:17.542 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
-09:28:17.583 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:28:17.778 [main] INFO  - ***** Ending Scenario execution *****
-09:31:03.934 [main] INFO  - ***** Starting Scenario execution *****
-09:31:19.459 [main] INFO  - Browser launched and navigated to URL.
-09:31:19.506 [main] INFO  - User is on the Home Page
-09:31:19.610 [main] INFO  - Hovering over 'New Bikes' menu...
-09:31:20.344 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-09:31:24.571 [main] INFO  - Successfully clicked Royal Enfield
-09:31:24.716 [main] INFO  - Verifying page header for: Royal Enfield
-09:31:31.096 [main] INFO  - Excel generated for Royal Enfield with TimeStamp column.
-09:31:31.096 [main] INFO  - Data export completed for: Royal Enfield
-09:31:31.104 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-09:31:31.104 [main] INFO  - ***** Ending Scenario execution *****
-09:31:50.425 [main] INFO  - ***** Starting Scenario execution *****
-09:32:01.846 [main] INFO  - Browser launched and navigated to URL.
-09:32:01.855 [main] INFO  - User is on the Home Page
-09:32:01.855 [main] INFO  - Hovering over 'New Bikes' menu...
-09:32:02.282 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-09:32:07.626 [main] INFO  - Successfully clicked Yamaha
-09:32:07.712 [main] INFO  - Verifying page header for: Yamaha
-09:32:10.503 [main] INFO  - Excel generated for Yamaha with TimeStamp column.
-09:32:10.503 [main] INFO  - Data export completed for: Yamaha
-09:32:10.507 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-09:32:10.507 [main] INFO  - ***** Ending Scenario execution *****
-09:32:19.441 [main] INFO  - ***** Starting Scenario execution *****
-09:32:29.574 [main] INFO  - Browser launched and navigated to URL.
-09:32:29.582 [main] INFO  - User is on the Home Page
-09:32:29.598 [main] INFO  - Hovering over 'New Bikes' menu...
-09:32:30.080 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-09:32:34.239 [main] INFO  - Successfully clicked TVS
-09:32:34.338 [main] INFO  - Verifying page header for: TVS
-09:32:34.998 [main] INFO  - Excel generated for TVS with TimeStamp column.
-09:32:34.998 [main] INFO  - Data export completed for: TVS
-09:32:34.998 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-09:32:34.998 [main] INFO  - ***** Ending Scenario execution *****
-09:32:42.210 [main] INFO  - ***** Starting Scenario execution *****
-09:32:52.242 [main] INFO  - Browser launched and navigated to URL.
-09:32:52.242 [main] INFO  - User is on the Home Page
-09:32:52.255 [main] INFO  - Hovering over 'New Bikes' menu...
-09:32:52.721 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-09:32:56.828 [main] INFO  - Successfully clicked Bajaj
-09:32:56.975 [main] INFO  - Verifying page header for: Bajaj
-09:32:58.156 [main] INFO  - Excel generated for Bajaj with TimeStamp column.
-09:32:58.156 [main] INFO  - Data export completed for: Bajaj
-09:32:58.156 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-09:32:58.156 [main] INFO  - ***** Ending Scenario execution *****
-09:33:29.219 [main] INFO  - ***** Starting Scenario execution *****
-09:33:40.339 [main] INFO  - Browser launched and navigated to URL.
-09:33:40.339 [main] INFO  - User is on the Home Page
-09:33:40.354 [main] INFO  - Hovering over 'New Bikes' menu...
-09:33:41.004 [main] INFO  - Clicking on 'Upcoming Bikes' option...
-09:33:51.439 [main] INFO  - Successfully clicked Hero Moto Corp
-09:33:51.545 [main] INFO  - Verifying page header for: Hero Moto Corp
-09:33:52.357 [main] INFO  - Excel generated for Hero Moto Corp with TimeStamp column.
-09:33:52.359 [main] INFO  - Data export completed for: Hero Moto Corp
-09:33:52.361 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
-09:33:52.363 [main] INFO  - ***** Ending Scenario execution *****
-09:34:05.346 [main] INFO  - ***** Starting Scenario execution *****
-09:34:14.639 [main] INFO  - Browser launched and navigated to URL.
-09:34:14.639 [main] INFO  - User is on the Home Page
-09:34:14.639 [main] INFO  - Opening login and clicking Continue with Google...
-09:34:14.639 [main] INFO  - Opening Login popup/modal...
-09:34:15.110 [main] INFO  - Login UI opened.
-09:34:15.110 [main] INFO  - Clicking 'Continue with Google'...
-09:34:15.545 [main] INFO  - Waiting for Google login window to open...
-09:34:17.554 [main] INFO  - Switched to Google window. Title: 
-09:34:17.683 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
-09:34:17.683 [main] INFO  - Entering email on Google...
-09:34:18.861 [main] INFO  - Entering password on Google...
-09:34:52.452 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
-09:34:52.495 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
-09:34:52.675 [main] INFO  - ***** Ending Scenario execution *****
-09:34:59.121 [main] INFO  - ***** Starting Scenario execution *****
-09:35:10.014 [main] INFO  - Browser launched and navigated to URL.
-09:35:10.022 [main] INFO  - User is on the Home Page
-09:35:10.023 [main] INFO  - Hovering over 'More' menu...
-09:35:10.480 [main] INFO  - Clicking on 'Used Cars' option...
-09:35:16.360 [main] INFO  - Starting infinite scroll for Chennai
-09:35:45.720 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-09:36:10.375 [main] INFO  - Extraction complete for city: Chennai
-09:36:10.485 [main] INFO  - Scenario PASSED: Checking Used cars page
-09:36:10.485 [main] INFO  - ***** Ending Scenario execution *****
-09:36:20.694 [main] INFO  - ***** Starting Scenario execution *****
-09:36:32.646 [main] INFO  - Browser launched and navigated to URL.
-09:36:32.650 [main] INFO  - User is on the Home Page
-09:36:32.652 [main] INFO  - Hovering over 'More' menu...
-09:36:33.065 [main] INFO  - Clicking on 'Used Cars' option...
-09:36:40.488 [main] INFO  - Starting infinite scroll for Bangalore
-09:38:02.161 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-09:39:57.257 [main] INFO  - Extraction complete for city: Bangalore
-09:39:57.353 [main] INFO  - Scenario PASSED: Checking Used cars page
-09:39:57.353 [main] INFO  - ***** Ending Scenario execution *****
-09:40:08.690 [main] INFO  - ***** Starting Scenario execution *****
-09:40:18.931 [main] INFO  - Browser launched and navigated to URL.
-09:40:18.934 [main] INFO  - User is on the Home Page
-09:40:18.934 [main] INFO  - Hovering over 'More' menu...
-09:40:19.407 [main] INFO  - Clicking on 'Used Cars' option...
-09:40:26.258 [main] INFO  - Starting infinite scroll for Mumbai
-09:41:54.059 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
-09:44:13.829 [main] INFO  - Extraction complete for city: Mumbai
-09:44:13.909 [main] INFO  - Scenario PASSED: Checking Used cars page
-09:44:13.909 [main] INFO  - ***** Ending Scenario execution *****
+11:33:18.962 [main] INFO  - Browser launched and navigated to URL.
+11:33:19.013 [main] INFO  - User is on the Home Page
+11:33:19.061 [main] INFO  - Opening login and clicking Continue with Google...
+11:33:19.066 [main] INFO  - Opening Login popup/modal...
+11:33:20.935 [main] INFO  - Login UI opened.
+11:33:20.935 [main] INFO  - Clicking 'Continue with Google'...
+11:33:21.648 [main] INFO  - Waiting for Google login window to open...
+11:33:32.671 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:34:28.710 [main] INFO  - ***** Ending Scenario execution *****
+11:35:02.232 [main] INFO  - ***** Starting Scenario execution *****
+11:35:15.883 [main] INFO  - Browser launched and navigated to URL.
+11:35:15.922 [main] INFO  - User is on the Home Page
+11:35:16.006 [main] INFO  - Opening login and clicking Continue with Google...
+11:35:16.013 [main] INFO  - Opening Login popup/modal...
+11:35:16.527 [main] INFO  - Login UI opened.
+11:35:16.527 [main] INFO  - Clicking 'Continue with Google'...
+11:35:16.989 [main] INFO  - Waiting for Google login window to open...
+11:35:19.780 [main] INFO  - Switched to Google window. Title: 
+11:35:21.849 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:35:21.849 [main] INFO  - Entering email on Google...
+11:35:23.399 [main] INFO  - Entering password on Google...
+11:35:55.337 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:35:55.368 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:35:55.523 [main] INFO  - ***** Ending Scenario execution *****
+11:39:00.371 [main] INFO  - ***** Starting Scenario execution *****
+11:39:11.095 [main] INFO  - Browser launched and navigated to URL.
+11:39:11.136 [main] INFO  - User is on the Home Page
+11:39:11.222 [main] INFO  - Opening login and clicking Continue with Google...
+11:39:11.231 [main] INFO  - Opening Login popup/modal...
+11:39:11.807 [main] INFO  - Login UI opened.
+11:39:11.807 [main] INFO  - Clicking 'Continue with Google'...
+11:39:12.539 [main] INFO  - Waiting for Google login window to open...
+11:39:15.403 [main] INFO  - Switched to Google window. Title: 
+11:39:17.355 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:39:17.355 [main] INFO  - Entering email on Google...
+11:39:18.629 [main] INFO  - Entering password on Google...
+11:39:50.534 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:39:50.581 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:39:50.740 [main] INFO  - ***** Ending Scenario execution *****
+11:42:17.778 [main] INFO  - ***** Starting Scenario execution *****
+11:42:27.754 [main] INFO  - Browser launched and navigated to URL.
+11:42:27.795 [main] INFO  - User is on the Home Page
+11:42:27.916 [main] INFO  - Opening login and clicking Continue with Google...
+11:42:27.924 [main] INFO  - Opening Login popup/modal...
+11:42:28.535 [main] INFO  - Login UI opened.
+11:42:28.535 [main] INFO  - Clicking 'Continue with Google'...
+11:42:29.115 [main] INFO  - Waiting for Google login window to open...
+11:42:31.058 [main] INFO  - Switched to Google window. Title: 
+11:42:32.299 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:42:32.300 [main] INFO  - Entering email on Google...
+11:42:33.823 [main] INFO  - Entering password on Google...
+11:43:06.274 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:43:06.288 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:43:06.456 [main] INFO  - ***** Ending Scenario execution *****
+11:43:12.431 [main] INFO  - ***** Starting Scenario execution *****
+11:43:21.834 [main] INFO  - Browser launched and navigated to URL.
+11:43:21.836 [main] INFO  - User is on the Home Page
+11:43:21.838 [main] INFO  - Opening login and clicking Continue with Google...
+11:43:21.839 [main] INFO  - Opening Login popup/modal...
+11:43:22.589 [main] INFO  - Login UI opened.
+11:43:22.590 [main] INFO  - Clicking 'Continue with Google'...
+11:43:23.642 [main] INFO  - Waiting for Google login window to open...
+11:43:26.492 [main] INFO  - Switched to Google window. Title: 
+11:43:26.531 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:43:26.531 [main] INFO  - Entering email on Google...
+11:43:28.310 [main] INFO  - Entering password on Google...
+11:44:00.767 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:44:00.772 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:44:00.911 [main] INFO  - ***** Ending Scenario execution *****
+11:46:53.680 [main] INFO  - ***** Starting Scenario execution *****
+11:47:04.384 [main] INFO  - Browser launched and navigated to URL.
+11:47:04.424 [main] INFO  - User is on the Home Page
+11:47:04.534 [main] INFO  - Opening login and clicking Continue with Google...
+11:47:04.534 [main] INFO  - Opening Login popup/modal...
+11:47:05.324 [main] INFO  - Login UI opened.
+11:47:05.324 [main] INFO  - Clicking 'Continue with Google'...
+11:47:05.835 [main] INFO  - Waiting for Google login window to open...
+11:47:08.020 [main] INFO  - Switched to Google window. Title: 
+11:47:12.280 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:47:12.280 [main] INFO  - Entering email on Google...
+11:47:13.658 [main] INFO  - Entering password on Google...
+11:47:45.627 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:47:45.658 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:47:45.851 [main] INFO  - ***** Ending Scenario execution *****
+11:47:52.102 [main] INFO  - ***** Starting Scenario execution *****
+11:48:00.484 [main] INFO  - Browser launched and navigated to URL.
+11:48:00.495 [main] INFO  - User is on the Home Page
+11:48:00.501 [main] INFO  - Opening login and clicking Continue with Google...
+11:48:00.501 [main] INFO  - Opening Login popup/modal...
+11:48:00.995 [main] INFO  - Login UI opened.
+11:48:00.995 [main] INFO  - Clicking 'Continue with Google'...
+11:48:01.613 [main] INFO  - Waiting for Google login window to open...
+11:48:03.470 [main] INFO  - Switched to Google window. Title: 
+11:48:03.603 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:48:03.603 [main] INFO  - Entering email on Google...
+11:48:04.729 [main] INFO  - Entering password on Google...
+11:48:37.851 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:48:37.858 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:48:38.031 [main] INFO  - ***** Ending Scenario execution *****
+11:56:26.632 [main] INFO  - ***** Starting Scenario execution *****
+11:56:33.838 [main] INFO  - Browser launched and navigated to URL.
+11:56:33.871 [main] INFO  - User is on the Home Page
+11:56:33.964 [main] INFO  - Opening login and clicking Continue with Google...
+11:56:33.970 [main] INFO  - Opening Login popup/modal...
+11:56:34.412 [main] INFO  - Login UI opened.
+11:56:34.412 [main] INFO  - Clicking 'Continue with Google'...
+11:56:34.706 [main] INFO  - Waiting for Google login window to open...
+11:56:55.023 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:56:55.890 [main] INFO  - ***** Ending Scenario execution *****
+11:57:01.809 [main] INFO  - ***** Starting Scenario execution *****
+11:57:12.950 [main] INFO  - Browser launched and navigated to URL.
+11:57:12.954 [main] INFO  - User is on the Home Page
+11:57:12.959 [main] INFO  - Opening login and clicking Continue with Google...
+11:57:12.959 [main] INFO  - Opening Login popup/modal...
+11:57:13.418 [main] INFO  - Login UI opened.
+11:57:13.418 [main] INFO  - Clicking 'Continue with Google'...
+11:57:13.844 [main] INFO  - Waiting for Google login window to open...
+11:57:15.591 [main] INFO  - Switched to Google window. Title: 
+11:57:17.691 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:57:17.691 [main] INFO  - Entering email on Google...
+11:57:19.087 [main] INFO  - Entering password on Google...
+11:57:50.853 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:57:50.869 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:57:51.009 [main] INFO  - ***** Ending Scenario execution *****
+11:57:59.512 [main] INFO  - ***** Starting Scenario execution *****
+11:58:10.752 [main] INFO  - Browser launched and navigated to URL.
+11:58:10.785 [main] INFO  - User is on the Home Page
+11:58:10.868 [main] INFO  - Opening login and clicking Continue with Google...
+11:58:10.880 [main] INFO  - Opening Login popup/modal...
+11:58:11.596 [main] INFO  - Login UI opened.
+11:58:11.596 [main] INFO  - Clicking 'Continue with Google'...
+11:58:12.218 [main] INFO  - Waiting for Google login window to open...
+11:58:14.146 [main] INFO  - Switched to Google window. Title: 
+11:58:16.147 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:58:16.148 [main] INFO  - Entering email on Google...
+11:58:17.433 [main] INFO  - Entering password on Google...
+11:58:49.262 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:58:49.278 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:58:49.468 [main] INFO  - ***** Ending Scenario execution *****
+11:58:55.627 [main] INFO  - ***** Starting Scenario execution *****
+11:59:03.826 [main] INFO  - Browser launched and navigated to URL.
+11:59:03.830 [main] INFO  - User is on the Home Page
+11:59:03.833 [main] INFO  - Opening login and clicking Continue with Google...
+11:59:03.834 [main] INFO  - Opening Login popup/modal...
+11:59:06.859 [main] INFO  - Login UI opened.
+11:59:06.861 [main] INFO  - Clicking 'Continue with Google'...
+11:59:07.666 [main] INFO  - Waiting for Google login window to open...
+11:59:10.402 [main] INFO  - Switched to Google window. Title: Sign in - Google Accounts
+11:59:10.566 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+11:59:10.566 [main] INFO  - Entering email on Google...
+11:59:12.528 [main] INFO  - Entering password on Google...
+11:59:45.632 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+11:59:45.641 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+11:59:45.819 [main] INFO  - ***** Ending Scenario execution *****
+11:59:56.213 [main] INFO  - ***** Starting Scenario execution *****
+12:00:03.438 [main] INFO  - Browser launched and navigated to URL.
+12:00:03.534 [main] INFO  - User is on the Home Page
+12:00:03.650 [main] INFO  - Opening login and clicking Continue with Google...
+12:00:03.665 [main] INFO  - Opening Login popup/modal...
+12:00:04.475 [main] INFO  - Login UI opened.
+12:00:04.481 [main] INFO  - Clicking 'Continue with Google'...
+12:00:04.940 [main] INFO  - Waiting for Google login window to open...
+12:00:07.506 [main] INFO  - Switched to Google window. Title: Sign in - Google Accounts
+12:00:09.530 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:00:09.530 [main] INFO  - Entering email on Google...
+12:00:10.776 [main] INFO  - Entering password on Google...
+12:00:42.620 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:00:42.641 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:00:42.838 [main] INFO  - ***** Ending Scenario execution *****
+12:00:48.548 [main] INFO  - ***** Starting Scenario execution *****
+12:00:57.310 [main] INFO  - Browser launched and navigated to URL.
+12:00:57.313 [main] INFO  - User is on the Home Page
+12:00:57.317 [main] INFO  - Opening login and clicking Continue with Google...
+12:00:57.318 [main] INFO  - Opening Login popup/modal...
+12:00:59.164 [main] INFO  - Login UI opened.
+12:00:59.164 [main] INFO  - Clicking 'Continue with Google'...
+12:00:59.899 [main] INFO  - Waiting for Google login window to open...
+12:01:02.946 [main] INFO  - Switched to Google window. Title: Sign in - Google Accounts
+12:01:02.987 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:01:02.987 [main] INFO  - Entering email on Google...
+12:01:04.764 [main] INFO  - Entering password on Google...
+12:01:36.636 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:01:36.640 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:01:36.822 [main] INFO  - ***** Ending Scenario execution *****
+12:07:25.656 [main] INFO  - ***** Starting Scenario execution *****
+12:07:35.897 [main] INFO  - Browser launched and navigated to URL.
+12:07:35.938 [main] INFO  - User is on the Home Page
+12:07:36.107 [main] INFO  - Opening login and clicking Continue with Google...
+12:07:36.120 [main] INFO  - Opening Login popup/modal...
+12:07:36.742 [main] INFO  - Login UI opened.
+12:07:36.742 [main] INFO  - Clicking 'Continue with Google'...
+12:07:37.396 [main] INFO  - Waiting for Google login window to open...
+12:07:40.170 [main] INFO  - Switched to Google window. Title: 
+12:07:42.392 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:07:42.392 [main] INFO  - Entering email on Google...
+12:07:43.975 [main] INFO  - Entering password on Google...
+12:08:15.809 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:08:15.840 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:08:16.064 [main] INFO  - ***** Ending Scenario execution *****
+12:08:22.441 [main] INFO  - ***** Starting Scenario execution *****
+12:08:34.577 [main] INFO  - Browser launched and navigated to URL.
+12:08:34.579 [main] INFO  - User is on the Home Page
+12:08:34.582 [main] INFO  - Opening login and clicking Continue with Google...
+12:08:34.582 [main] INFO  - Opening Login popup/modal...
+12:08:35.350 [main] INFO  - Login UI opened.
+12:08:35.351 [main] INFO  - Clicking 'Continue with Google'...
+12:08:36.333 [main] INFO  - Waiting for Google login window to open...
+12:08:39.047 [main] INFO  - Switched to Google window. Title: 
+12:08:39.092 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:08:39.093 [main] INFO  - Entering email on Google...
+12:08:40.828 [main] INFO  - Entering password on Google...
+12:09:14.338 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:09:14.342 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:09:14.498 [main] INFO  - ***** Ending Scenario execution *****
+12:09:23.255 [main] INFO  - ***** Starting Scenario execution *****
+12:09:29.663 [main] INFO  - Browser launched and navigated to URL.
+12:09:29.701 [main] INFO  - User is on the Home Page
+12:09:29.797 [main] INFO  - Opening login and clicking Continue with Google...
+12:09:29.804 [main] INFO  - Opening Login popup/modal...
+12:09:31.070 [main] INFO  - Login UI opened.
+12:09:31.072 [main] INFO  - Clicking 'Continue with Google'...
+12:09:31.544 [main] INFO  - Waiting for Google login window to open...
+12:09:33.216 [main] INFO  - Switched to Google window. Title: 
+12:09:35.218 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:09:35.226 [main] INFO  - Entering email on Google...
+12:09:36.455 [main] INFO  - Entering password on Google...
+12:10:08.337 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:10:08.385 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:10:08.538 [main] INFO  - ***** Ending Scenario execution *****
+12:10:14.577 [main] INFO  - ***** Starting Scenario execution *****
+12:10:20.017 [main] INFO  - Browser launched and navigated to URL.
+12:10:20.023 [main] INFO  - User is on the Home Page
+12:10:20.034 [main] INFO  - Opening login and clicking Continue with Google...
+12:10:20.034 [main] INFO  - Opening Login popup/modal...
+12:10:20.601 [main] INFO  - Login UI opened.
+12:10:20.601 [main] INFO  - Clicking 'Continue with Google'...
+12:10:21.170 [main] INFO  - Waiting for Google login window to open...
+12:10:23.032 [main] INFO  - Switched to Google window. Title: 
+12:10:23.147 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:10:23.147 [main] INFO  - Entering email on Google...
+12:10:24.373 [main] INFO  - Entering password on Google...
+12:10:56.144 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:10:56.160 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:10:56.286 [main] INFO  - ***** Ending Scenario execution *****
+12:13:43.398 [main] INFO  - ***** Starting Scenario execution *****
+12:13:52.987 [main] INFO  - Browser launched and navigated to URL.
+12:13:53.032 [main] INFO  - User is on the Home Page
+12:13:53.185 [main] INFO  - Hovering over 'New Bikes' menu...
+12:13:53.865 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:13:58.413 [main] INFO  - Successfully clicked Royal Enfield
+12:13:58.597 [main] INFO  - Verifying page header for: Royal Enfield
+12:14:04.473 [main] INFO  - Excel generated for Royal Enfield with TimeStamp column.
+12:14:04.473 [main] INFO  - Data export completed for: Royal Enfield
+12:14:04.473 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:14:04.473 [main] INFO  - ***** Ending Scenario execution *****
+12:14:10.579 [main] INFO  - ***** Starting Scenario execution *****
+12:14:16.651 [main] INFO  - Browser launched and navigated to URL.
+12:14:16.659 [main] INFO  - User is on the Home Page
+12:14:16.659 [main] INFO  - Hovering over 'New Bikes' menu...
+12:14:17.122 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:14:19.878 [main] INFO  - Successfully clicked Yamaha
+12:14:20.008 [main] INFO  - Verifying page header for: Yamaha
+12:14:22.308 [main] INFO  - Excel generated for Yamaha with TimeStamp column.
+12:14:22.308 [main] INFO  - Data export completed for: Yamaha
+12:14:22.308 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:14:22.308 [main] INFO  - ***** Ending Scenario execution *****
+12:14:25.778 [main] INFO  - ***** Starting Scenario execution *****
+12:14:33.810 [main] INFO  - Browser launched and navigated to URL.
+12:14:33.816 [main] INFO  - User is on the Home Page
+12:14:33.818 [main] INFO  - Hovering over 'New Bikes' menu...
+12:14:34.365 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:14:38.868 [main] INFO  - Successfully clicked TVS
+12:14:39.071 [main] INFO  - Verifying page header for: TVS
+12:14:39.599 [main] INFO  - Excel generated for TVS with TimeStamp column.
+12:14:39.601 [main] INFO  - Data export completed for: TVS
+12:14:39.603 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:14:39.605 [main] INFO  - ***** Ending Scenario execution *****
+12:14:44.953 [main] INFO  - ***** Starting Scenario execution *****
+12:14:54.314 [main] INFO  - Browser launched and navigated to URL.
+12:14:54.322 [main] INFO  - User is on the Home Page
+12:14:54.323 [main] INFO  - Hovering over 'New Bikes' menu...
+12:14:55.381 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:15:00.152 [main] INFO  - Successfully clicked Bajaj
+12:15:00.339 [main] INFO  - Verifying page header for: Bajaj
+12:15:01.208 [main] INFO  - Excel generated for Bajaj with TimeStamp column.
+12:15:01.208 [main] INFO  - Data export completed for: Bajaj
+12:15:01.208 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:15:01.208 [main] INFO  - ***** Ending Scenario execution *****
+12:15:06.721 [main] INFO  - ***** Starting Scenario execution *****
+12:15:15.120 [main] INFO  - Browser launched and navigated to URL.
+12:15:15.131 [main] INFO  - User is on the Home Page
+12:15:15.132 [main] INFO  - Hovering over 'New Bikes' menu...
+12:15:15.630 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:15:19.081 [main] INFO  - Successfully clicked Hero Moto Corp
+12:15:19.227 [main] INFO  - Verifying page header for: Hero Moto Corp
+12:15:19.969 [main] INFO  - Excel generated for Hero Moto Corp with TimeStamp column.
+12:15:19.969 [main] INFO  - Data export completed for: Hero Moto Corp
+12:15:19.969 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:15:19.969 [main] INFO  - ***** Ending Scenario execution *****
+12:15:25.166 [main] INFO  - ***** Starting Scenario execution *****
+12:15:32.981 [main] INFO  - Browser launched and navigated to URL.
+12:15:32.983 [main] INFO  - User is on the Home Page
+12:15:32.983 [main] INFO  - Opening login and clicking Continue with Google...
+12:15:32.983 [main] INFO  - Opening Login popup/modal...
+12:15:33.558 [main] INFO  - Login UI opened.
+12:15:33.559 [main] INFO  - Clicking 'Continue with Google'...
+12:15:34.051 [main] INFO  - Waiting for Google login window to open...
+12:15:36.012 [main] INFO  - Switched to Google window. Title: Sign in - Google Accounts
+12:15:36.112 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:15:36.115 [main] INFO  - Entering email on Google...
+12:15:37.287 [main] INFO  - Entering password on Google...
+12:16:09.748 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:16:09.773 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:16:09.953 [main] INFO  - ***** Ending Scenario execution *****
+12:16:15.779 [main] INFO  - ***** Starting Scenario execution *****
+12:16:24.610 [main] INFO  - Browser launched and navigated to URL.
+12:16:24.614 [main] INFO  - User is on the Home Page
+12:16:24.617 [main] INFO  - Hovering over 'More' menu...
+12:16:25.172 [main] INFO  - Clicking on 'Used Cars' option...
+12:16:30.663 [main] INFO  - Starting infinite scroll for Chennai
+12:16:57.897 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
+12:17:20.206 [main] INFO  - Extraction complete for city: Chennai
+12:17:20.263 [main] INFO  - Scenario PASSED: Checking Used cars page
+12:17:20.263 [main] INFO  - ***** Ending Scenario execution *****
+12:17:27.696 [main] INFO  - ***** Starting Scenario execution *****
+12:17:37.252 [main] INFO  - Browser launched and navigated to URL.
+12:17:37.252 [main] INFO  - User is on the Home Page
+12:17:37.260 [main] INFO  - Hovering over 'More' menu...
+12:17:37.737 [main] INFO  - Clicking on 'Used Cars' option...
+12:17:44.567 [main] INFO  - Starting infinite scroll for Bangalore
+12:19:06.177 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
+12:21:05.832 [main] INFO  - Extraction complete for city: Bangalore
+12:21:05.895 [main] INFO  - Scenario PASSED: Checking Used cars page
+12:21:05.895 [main] INFO  - ***** Ending Scenario execution *****
+12:21:16.051 [main] INFO  - ***** Starting Scenario execution *****
+12:21:28.573 [main] INFO  - Browser launched and navigated to URL.
+12:21:28.578 [main] INFO  - User is on the Home Page
+12:21:28.581 [main] INFO  - Hovering over 'More' menu...
+12:21:29.044 [main] INFO  - Clicking on 'Used Cars' option...
+12:21:34.221 [main] INFO  - Starting infinite scroll for Mumbai
+12:23:14.221 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
+12:25:29.467 [main] INFO  - Extraction complete for city: Mumbai
+12:25:29.527 [main] INFO  - Scenario PASSED: Checking Used cars page
+12:25:29.527 [main] INFO  - ***** Ending Scenario execution *****
+12:25:40.252 [main] INFO  - ***** Starting Scenario execution *****
+12:25:49.156 [main] INFO  - Browser launched and navigated to URL.
+12:25:49.160 [main] INFO  - User is on the Home Page
+12:25:49.165 [main] INFO  - Opening login and clicking Continue with Google...
+12:25:49.165 [main] INFO  - Opening Login popup/modal...
+12:25:49.798 [main] INFO  - Login UI opened.
+12:25:49.798 [main] INFO  - Clicking 'Continue with Google'...
+12:25:50.367 [main] INFO  - Waiting for Google login window to open...
+12:25:52.954 [main] INFO  - Switched to Google window. Title: Sign in - Google Accounts
+12:25:53.008 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:25:53.008 [main] INFO  - Entering email on Google...
+12:25:53.901 [main] INFO  - Entering password on Google...
+12:26:25.754 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:26:25.770 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:26:25.880 [main] INFO  - ***** Ending Scenario execution *****
+12:26:35.433 [main] INFO  - ***** Starting Scenario execution *****
+12:26:42.524 [main] INFO  - Browser launched and navigated to URL.
+12:26:42.552 [main] INFO  - User is on the Home Page
+12:26:42.690 [main] INFO  - Hovering over 'New Bikes' menu...
+12:26:43.531 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:26:47.650 [main] INFO  - Successfully clicked Royal Enfield
+12:26:47.857 [main] INFO  - Verifying page header for: Royal Enfield
+12:26:51.365 [main] INFO  - Excel generated for Royal Enfield with TimeStamp column.
+12:26:51.366 [main] INFO  - Data export completed for: Royal Enfield
+12:26:51.370 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:26:51.371 [main] INFO  - ***** Ending Scenario execution *****
+12:26:57.604 [main] INFO  - ***** Starting Scenario execution *****
+12:27:03.057 [main] INFO  - Browser launched and navigated to URL.
+12:27:03.059 [main] INFO  - User is on the Home Page
+12:27:03.065 [main] INFO  - Hovering over 'New Bikes' menu...
+12:27:03.621 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:27:07.438 [main] INFO  - Successfully clicked Yamaha
+12:27:07.676 [main] INFO  - Verifying page header for: Yamaha
+12:27:11.532 [main] INFO  - Excel generated for Yamaha with TimeStamp column.
+12:27:11.534 [main] INFO  - Data export completed for: Yamaha
+12:27:11.538 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:27:11.538 [main] INFO  - ***** Ending Scenario execution *****
+12:27:18.496 [main] INFO  - ***** Starting Scenario execution *****
+12:27:23.873 [main] INFO  - Browser launched and navigated to URL.
+12:27:23.880 [main] INFO  - User is on the Home Page
+12:27:23.880 [main] INFO  - Hovering over 'New Bikes' menu...
+12:27:24.340 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:27:27.540 [main] INFO  - Successfully clicked TVS
+12:27:27.644 [main] INFO  - Verifying page header for: TVS
+12:27:28.256 [main] INFO  - Excel generated for TVS with TimeStamp column.
+12:27:28.256 [main] INFO  - Data export completed for: TVS
+12:27:28.260 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:27:28.261 [main] INFO  - ***** Ending Scenario execution *****
+12:27:33.088 [main] INFO  - ***** Starting Scenario execution *****
+12:27:38.514 [main] INFO  - Browser launched and navigated to URL.
+12:27:38.514 [main] INFO  - User is on the Home Page
+12:27:38.522 [main] INFO  - Hovering over 'New Bikes' menu...
+12:27:39.051 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:27:42.692 [main] INFO  - Successfully clicked Bajaj
+12:27:42.754 [main] INFO  - Verifying page header for: Bajaj
+12:27:43.505 [main] INFO  - Excel generated for Bajaj with TimeStamp column.
+12:27:43.505 [main] INFO  - Data export completed for: Bajaj
+12:27:43.505 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:27:43.505 [main] INFO  - ***** Ending Scenario execution *****
+12:27:48.658 [main] INFO  - ***** Starting Scenario execution *****
+12:27:54.413 [main] INFO  - Browser launched and navigated to URL.
+12:27:54.424 [main] INFO  - User is on the Home Page
+12:27:54.424 [main] INFO  - Hovering over 'New Bikes' menu...
+12:27:55.134 [main] INFO  - Clicking on 'Upcoming Bikes' option...
+12:27:58.689 [main] INFO  - Successfully clicked Hero Moto Corp
+12:27:58.804 [main] INFO  - Verifying page header for: Hero Moto Corp
+12:27:59.627 [main] INFO  - Excel generated for Hero Moto Corp with TimeStamp column.
+12:27:59.633 [main] INFO  - Data export completed for: Hero Moto Corp
+12:27:59.633 [main] INFO  - Scenario PASSED: Verify upcoming bikes for different manufacturers
+12:27:59.633 [main] INFO  - ***** Ending Scenario execution *****
+12:28:05.078 [main] INFO  - ***** Starting Scenario execution *****
+12:28:10.526 [main] INFO  - Browser launched and navigated to URL.
+12:28:10.534 [main] INFO  - User is on the Home Page
+12:28:10.534 [main] INFO  - Opening login and clicking Continue with Google...
+12:28:10.534 [main] INFO  - Opening Login popup/modal...
+12:28:11.217 [main] INFO  - Login UI opened.
+12:28:11.217 [main] INFO  - Clicking 'Continue with Google'...
+12:28:12.173 [main] INFO  - Waiting for Google login window to open...
+12:28:14.182 [main] INFO  - Switched to Google window. Title: 
+12:28:14.283 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:28:14.283 [main] INFO  - Entering email on Google...
+12:28:15.210 [main] INFO  - Entering password on Google...
+12:28:47.138 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:28:47.164 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:28:47.295 [main] INFO  - ***** Ending Scenario execution *****
+12:28:52.472 [main] INFO  - ***** Starting Scenario execution *****
+12:28:57.063 [main] INFO  - Browser launched and navigated to URL.
+12:28:57.068 [main] INFO  - User is on the Home Page
+12:28:57.071 [main] INFO  - Hovering over 'More' menu...
+12:28:58.396 [main] INFO  - Clicking on 'Used Cars' option...
+12:29:03.584 [main] INFO  - Starting infinite scroll for Chennai
+12:29:18.416 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
+12:29:38.933 [main] INFO  - Extraction complete for city: Chennai
+12:29:39.005 [main] INFO  - Scenario PASSED: Checking Used cars page
+12:29:39.005 [main] INFO  - ***** Ending Scenario execution *****
+12:29:46.654 [main] INFO  - ***** Starting Scenario execution *****
+12:29:52.239 [main] INFO  - Browser launched and navigated to URL.
+12:29:52.239 [main] INFO  - User is on the Home Page
+12:29:52.246 [main] INFO  - Hovering over 'More' menu...
+12:29:52.935 [main] INFO  - Clicking on 'Used Cars' option...
+12:29:58.644 [main] INFO  - Starting infinite scroll for Bangalore
+12:31:09.786 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
+12:32:54.039 [main] INFO  - Extraction complete for city: Bangalore
+12:32:54.090 [main] INFO  - Scenario PASSED: Checking Used cars page
+12:32:54.090 [main] INFO  - ***** Ending Scenario execution *****
+12:33:03.915 [main] INFO  - ***** Starting Scenario execution *****
+12:33:10.070 [main] INFO  - Browser launched and navigated to URL.
+12:33:10.070 [main] INFO  - User is on the Home Page
+12:33:10.070 [main] INFO  - Hovering over 'More' menu...
+12:33:10.613 [main] INFO  - Clicking on 'Used Cars' option...
+12:33:15.978 [main] INFO  - Starting infinite scroll for Mumbai
+12:34:41.813 [main] INFO  - Reached the end: 'That's all Folks!!' is visible.
+12:36:38.472 [main] INFO  - Extraction complete for city: Mumbai
+12:36:38.505 [main] INFO  - Scenario PASSED: Checking Used cars page
+12:36:38.505 [main] INFO  - ***** Ending Scenario execution *****
+12:36:48.409 [main] INFO  - ***** Starting Scenario execution *****
+12:36:52.694 [main] INFO  - Browser launched and navigated to URL.
+12:36:52.697 [main] INFO  - User is on the Home Page
+12:36:52.700 [main] INFO  - Opening login and clicking Continue with Google...
+12:36:52.700 [main] INFO  - Opening Login popup/modal...
+12:36:52.986 [main] INFO  - Login UI opened.
+12:36:52.986 [main] INFO  - Clicking 'Continue with Google'...
+12:36:53.236 [main] INFO  - Waiting for Google login window to open...
+12:36:54.629 [main] INFO  - Switched to Google window. Title: 
+12:36:54.670 [main] INFO  - Attempting Google login with email: mytestid@gmail.com
+12:36:54.670 [main] INFO  - Entering email on Google...
+12:36:55.467 [main] INFO  - Entering password on Google...
+12:37:27.214 [main] WARN  - Password field not visible. Google may have blocked automation or email invalid.
+12:37:27.221 [main] ERROR - Scenario FAILED: Attempt Google login with invalid credentials
+12:37:27.360 [main] INFO  - ***** Ending Scenario execution *****

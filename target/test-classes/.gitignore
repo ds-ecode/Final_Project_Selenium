@@ -1,4 +1,6 @@
-/testRunner/
+/factory/
+/hooks/
 /pageObjects/
 /stepDefinations/
+/testRunner/
 /utilities/
