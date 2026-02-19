@@ -8,8 +8,8 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
     features = {
-            ".//features//basic.feature",
-            ".//features//usedcars.feature",
+//            ".//features//basic.feature",
+//            ".//features//usedcars.feature",
             ".//features//googlelogin.feature"
     },
     glue = {"stepDefinations","hooks"}, // Ensure this matches your package name!

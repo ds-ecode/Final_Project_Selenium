@@ -59,6 +59,7 @@ public class BaseClass {
             default:
                 System.out.println("No matching browser found");
                 return null;
+//                add throw declration
         }
 
         driver.manage().deleteAllCookies();

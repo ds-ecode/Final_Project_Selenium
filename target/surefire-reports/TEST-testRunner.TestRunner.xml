@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="testRunner.TestRunner" time="614.651" tests="9" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="testRunner.TestRunner" time="43.006" tests="1" errors="1" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\2462058\Downloads\Identify_New_Bikes (1)\Identify_New_Bikes\target\test-classes;C:\Users\2462058\Downloads\Identify_New_Bikes (1)\Identify_New_Bikes\target\classes;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-java\4.20.0\selenium-java-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-api\4.20.0\selenium-api-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.20.0\selenium-chrome-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.20.0\selenium-chromium-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-json\4.20.0\selenium-json-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.20.0\selenium-manager-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v122\4.20.0\selenium-devtools-v122-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v123\4.20.0\selenium-devtools-v123-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v124\4.20.0\selenium-devtools-v124-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.20.0\selenium-devtools-v85-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.20.0\selenium-edge-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.20.0\selenium-firefox-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-http\4.20.0\selenium-http-4.20.0.jar;C:\Users\2462058\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.20.0\selenium-ie-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.20.0\selenium-remote-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\com\google\guava\guava\33.1.0-jre\guava-33.1.0-jre.jar;C:\Users\2462058\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\2462058\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\2462058\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\2462058\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\2462058\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\2462058\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-api\1.37.0\opentelemetry-api-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-context\1.37.0\opentelemetry-context-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.37.0\opentelemetry-exporter-logging-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.37.0\opentelemetry-sdk-common-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.37.0\opentelemetry-sdk-extension-autoconfigure-spi-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.37.0\opentelemetry-sdk-extension-autoconfigure-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.37.0-alpha\opentelemetry-api-incubator-1.37.0-alpha.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.37.0\opentelemetry-sdk-trace-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.37.0\opentelemetry-sdk-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.37.0\opentelemetry-sdk-metrics-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.37.0\opentelemetry-sdk-logs-1.37.0.jar;C:\Users\2462058\.m2\repository\net\bytebuddy\byte-buddy\1.14.14\byte-buddy-1.14.14.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-os\4.20.0\selenium-os-4.20.0.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.20.0\selenium-safari-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-support\4.20.0\selenium-support-4.20.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-junit\7.17.0\cucumber-junit-7.17.0.jar;C:\Users\2462058\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-core\7.17.0\cucumber-core-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-gherkin\7.17.0\cucumber-gherkin-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.17.0\cucumber-gherkin-messages-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\testng-xml-formatter\0.1.0\testng-xml-formatter-0.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\datatable\7.17.0\datatable-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-plugin\7.17.0\cucumber-plugin-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\docstring\7.17.0\docstring-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\html-formatter\21.3.1\html-formatter-21.3.1.jar;C:\Users\2462058\.m2\repository\io\cucumber\junit-xml-formatter\0.4.0\junit-xml-formatter-0.4.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\2462058\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\2462058\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-java\7.17.0\cucumber-java-7.17.0.jar;C:\Users\2462058\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\2462058\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\2462058\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\2462058\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\2462058\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\2462058\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\2462058\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\2462058\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\2462058\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\2462058\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\extentreports-cucumber7-adapter\1.14.0\extentreports-cucumber7-adapter-1.14.0.jar;C:\Users\2462058\.m2\repository\com\aventstack\extentreports\5.1.0\extentreports-5.1.0.jar;C:\Users\2462058\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\2462058\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\2462058\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\2462058\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\2462058\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\extent-pdf-report\2.12.0\extent-pdf-report-2.12.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\cucumber-pdf-report\2.14.0\cucumber-pdf-report-2.14.0.jar;C:\Users\2462058\.m2\repository\org\apache\pdfbox\pdfbox\2.0.26\pdfbox-2.0.26.jar;C:\Users\2462058\.m2\repository\org\apache\pdfbox\fontbox\2.0.26\fontbox-2.0.26.jar;C:\Users\2462058\.m2\repository\org\knowm\xchart\xchart\3.8.0\xchart-3.8.0.jar;C:\Users\2462058\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\2462058\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\2462058\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\2462058\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\table-layout\1.5.1\table-layout-1.5.1.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\rest-assured-cucumber-pdf-report\1.5.0\rest-assured-cucumber-pdf-report-1.5.0.jar;C:\Users\2462058\.m2\repository\org\jsoup\jsoup\1.15.3\jsoup-1.15.3.jar;C:\Users\2462058\.m2\repository\com\aventstack\klov-reporter\5.1.0\klov-reporter-5.1.0.jar;C:\Users\2462058\.m2\repository\org\mongodb\mongodb-driver\3.6.4\mongodb-driver-3.6.4.jar;C:\Users\2462058\.m2\repository\org\mongodb\mongodb-driver-core\3.6.4\mongodb-driver-core-3.6.4.jar;C:\Users\2462058\.m2\repository\org\mongodb\bson\3.6.4\bson-3.6.4.jar;C:\Users\2462058\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\2462058\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\2462058\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\2462058\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\htmlextentreporter\1.1.0\htmlextentreporter-1.1.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\extent-excel-report\1.4.0\extent-excel-report-1.4.0.jar;"/>
+    <property name="java.class.path" value="C:\Users\2462007\Downloads\Identify_New_Bikes\Identify_New_Bikes\target\test-classes;C:\Users\2462007\Downloads\Identify_New_Bikes\Identify_New_Bikes\target\classes;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-java\4.20.0\selenium-java-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-api\4.20.0\selenium-api-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.20.0\selenium-chrome-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.20.0\selenium-chromium-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-json\4.20.0\selenium-json-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.20.0\selenium-manager-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v122\4.20.0\selenium-devtools-v122-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v123\4.20.0\selenium-devtools-v123-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v124\4.20.0\selenium-devtools-v124-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.20.0\selenium-devtools-v85-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.20.0\selenium-edge-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.20.0\selenium-firefox-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-http\4.20.0\selenium-http-4.20.0.jar;C:\Users\2462007\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.20.0\selenium-ie-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.20.0\selenium-remote-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\com\google\guava\guava\33.1.0-jre\guava-33.1.0-jre.jar;C:\Users\2462007\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\2462007\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\2462007\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\2462007\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\2462007\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\2462007\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-api\1.37.0\opentelemetry-api-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-context\1.37.0\opentelemetry-context-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.37.0\opentelemetry-exporter-logging-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.37.0\opentelemetry-sdk-common-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.37.0\opentelemetry-sdk-extension-autoconfigure-spi-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.37.0\opentelemetry-sdk-extension-autoconfigure-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.37.0-alpha\opentelemetry-api-incubator-1.37.0-alpha.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.37.0\opentelemetry-sdk-trace-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.37.0\opentelemetry-sdk-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.37.0\opentelemetry-sdk-metrics-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.37.0\opentelemetry-sdk-logs-1.37.0.jar;C:\Users\2462007\.m2\repository\net\bytebuddy\byte-buddy\1.14.14\byte-buddy-1.14.14.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-os\4.20.0\selenium-os-4.20.0.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.20.0\selenium-safari-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-support\4.20.0\selenium-support-4.20.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-junit\7.17.0\cucumber-junit-7.17.0.jar;C:\Users\2462007\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-core\7.17.0\cucumber-core-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-gherkin\7.17.0\cucumber-gherkin-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.17.0\cucumber-gherkin-messages-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\testng-xml-formatter\0.1.0\testng-xml-formatter-0.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\datatable\7.17.0\datatable-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-plugin\7.17.0\cucumber-plugin-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\docstring\7.17.0\docstring-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\html-formatter\21.3.1\html-formatter-21.3.1.jar;C:\Users\2462007\.m2\repository\io\cucumber\junit-xml-formatter\0.4.0\junit-xml-formatter-0.4.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\2462007\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\2462007\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-java\7.17.0\cucumber-java-7.17.0.jar;C:\Users\2462007\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\2462007\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\2462007\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\2462007\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\2462007\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\2462007\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\2462007\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\2462007\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\2462007\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\2462007\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\extentreports-cucumber7-adapter\1.14.0\extentreports-cucumber7-adapter-1.14.0.jar;C:\Users\2462007\.m2\repository\com\aventstack\extentreports\5.1.0\extentreports-5.1.0.jar;C:\Users\2462007\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\2462007\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\2462007\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\2462007\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\2462007\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\extent-pdf-report\2.12.0\extent-pdf-report-2.12.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\cucumber-pdf-report\2.14.0\cucumber-pdf-report-2.14.0.jar;C:\Users\2462007\.m2\repository\org\apache\pdfbox\pdfbox\2.0.26\pdfbox-2.0.26.jar;C:\Users\2462007\.m2\repository\org\apache\pdfbox\fontbox\2.0.26\fontbox-2.0.26.jar;C:\Users\2462007\.m2\repository\org\knowm\xchart\xchart\3.8.0\xchart-3.8.0.jar;C:\Users\2462007\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\2462007\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\2462007\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\2462007\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\table-layout\1.5.1\table-layout-1.5.1.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\rest-assured-cucumber-pdf-report\1.5.0\rest-assured-cucumber-pdf-report-1.5.0.jar;C:\Users\2462007\.m2\repository\org\jsoup\jsoup\1.15.3\jsoup-1.15.3.jar;C:\Users\2462007\.m2\repository\com\aventstack\klov-reporter\5.1.0\klov-reporter-5.1.0.jar;C:\Users\2462007\.m2\repository\org\mongodb\mongodb-driver\3.6.4\mongodb-driver-3.6.4.jar;C:\Users\2462007\.m2\repository\org\mongodb\mongodb-driver-core\3.6.4\mongodb-driver-core-3.6.4.jar;C:\Users\2462007\.m2\repository\org\mongodb\bson\3.6.4\bson-3.6.4.jar;C:\Users\2462007\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\2462007\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\2462007\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\2462007\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\htmlextentreporter\1.1.0\htmlextentreporter-1.1.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\extent-excel-report\1.4.0\extent-excel-report-1.4.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,27 +15,27 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25\bin"/>
-    <property name="sun.java.command" value="C:\Users\2462058\AppData\Local\Temp\surefire17671979692277912322\surefirebooter-20260216122632585_26.jar C:\Users\2462058\AppData\Local\Temp\surefire17671979692277912322 2026-02-16T12-13-40_496-jvmRun1 surefire-20260216122632585_24tmp surefire_1-20260216122632585_25tmp"/>
+    <property name="sun.java.command" value="C:\Users\2462007\AppData\Local\Temp\surefire18410117989264779518\surefirebooter-20260217105953410_10.jar C:\Users\2462007\AppData\Local\Temp\surefire18410117989264779518 2026-02-17T10-58-27_161-jvmRun1 surefire-20260217105953410_8tmp surefire_1-20260217105953410_9tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\2462058\Downloads\Identify_New_Bikes (1)\Identify_New_Bikes\target\test-classes;C:\Users\2462058\Downloads\Identify_New_Bikes (1)\Identify_New_Bikes\target\classes;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-java\4.20.0\selenium-java-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-api\4.20.0\selenium-api-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.20.0\selenium-chrome-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.20.0\selenium-chromium-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-json\4.20.0\selenium-json-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.20.0\selenium-manager-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v122\4.20.0\selenium-devtools-v122-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v123\4.20.0\selenium-devtools-v123-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v124\4.20.0\selenium-devtools-v124-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.20.0\selenium-devtools-v85-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.20.0\selenium-edge-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.20.0\selenium-firefox-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-http\4.20.0\selenium-http-4.20.0.jar;C:\Users\2462058\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.20.0\selenium-ie-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.20.0\selenium-remote-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\com\google\guava\guava\33.1.0-jre\guava-33.1.0-jre.jar;C:\Users\2462058\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\2462058\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\2462058\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\2462058\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\2462058\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\2462058\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-api\1.37.0\opentelemetry-api-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-context\1.37.0\opentelemetry-context-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.37.0\opentelemetry-exporter-logging-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.37.0\opentelemetry-sdk-common-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.37.0\opentelemetry-sdk-extension-autoconfigure-spi-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.37.0\opentelemetry-sdk-extension-autoconfigure-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.37.0-alpha\opentelemetry-api-incubator-1.37.0-alpha.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.37.0\opentelemetry-sdk-trace-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.37.0\opentelemetry-sdk-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.37.0\opentelemetry-sdk-metrics-1.37.0.jar;C:\Users\2462058\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.37.0\opentelemetry-sdk-logs-1.37.0.jar;C:\Users\2462058\.m2\repository\net\bytebuddy\byte-buddy\1.14.14\byte-buddy-1.14.14.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-os\4.20.0\selenium-os-4.20.0.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.20.0\selenium-safari-driver-4.20.0.jar;C:\Users\2462058\.m2\repository\org\seleniumhq\selenium\selenium-support\4.20.0\selenium-support-4.20.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-junit\7.17.0\cucumber-junit-7.17.0.jar;C:\Users\2462058\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-core\7.17.0\cucumber-core-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-gherkin\7.17.0\cucumber-gherkin-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.17.0\cucumber-gherkin-messages-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\testng-xml-formatter\0.1.0\testng-xml-formatter-0.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\datatable\7.17.0\datatable-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-plugin\7.17.0\cucumber-plugin-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\docstring\7.17.0\docstring-7.17.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\html-formatter\21.3.1\html-formatter-21.3.1.jar;C:\Users\2462058\.m2\repository\io\cucumber\junit-xml-formatter\0.4.0\junit-xml-formatter-0.4.0.jar;C:\Users\2462058\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\2462058\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\2462058\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\2462058\.m2\repository\io\cucumber\cucumber-java\7.17.0\cucumber-java-7.17.0.jar;C:\Users\2462058\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\2462058\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\2462058\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\2462058\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\2462058\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\2462058\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\2462058\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\2462058\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\2462058\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\2462058\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\2462058\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\extentreports-cucumber7-adapter\1.14.0\extentreports-cucumber7-adapter-1.14.0.jar;C:\Users\2462058\.m2\repository\com\aventstack\extentreports\5.1.0\extentreports-5.1.0.jar;C:\Users\2462058\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\2462058\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\2462058\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\2462058\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\2462058\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\extent-pdf-report\2.12.0\extent-pdf-report-2.12.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\cucumber-pdf-report\2.14.0\cucumber-pdf-report-2.14.0.jar;C:\Users\2462058\.m2\repository\org\apache\pdfbox\pdfbox\2.0.26\pdfbox-2.0.26.jar;C:\Users\2462058\.m2\repository\org\apache\pdfbox\fontbox\2.0.26\fontbox-2.0.26.jar;C:\Users\2462058\.m2\repository\org\knowm\xchart\xchart\3.8.0\xchart-3.8.0.jar;C:\Users\2462058\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\2462058\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\2462058\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\2462058\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\table-layout\1.5.1\table-layout-1.5.1.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\rest-assured-cucumber-pdf-report\1.5.0\rest-assured-cucumber-pdf-report-1.5.0.jar;C:\Users\2462058\.m2\repository\org\jsoup\jsoup\1.15.3\jsoup-1.15.3.jar;C:\Users\2462058\.m2\repository\com\aventstack\klov-reporter\5.1.0\klov-reporter-5.1.0.jar;C:\Users\2462058\.m2\repository\org\mongodb\mongodb-driver\3.6.4\mongodb-driver-3.6.4.jar;C:\Users\2462058\.m2\repository\org\mongodb\mongodb-driver-core\3.6.4\mongodb-driver-core-3.6.4.jar;C:\Users\2462058\.m2\repository\org\mongodb\bson\3.6.4\bson-3.6.4.jar;C:\Users\2462058\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\2462058\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\2462058\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\2462058\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\htmlextentreporter\1.1.0\htmlextentreporter-1.1.0.jar;C:\Users\2462058\.m2\repository\tech\grasshopper\extent-excel-report\1.4.0\extent-excel-report-1.4.0.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\2462007\Downloads\Identify_New_Bikes\Identify_New_Bikes\target\test-classes;C:\Users\2462007\Downloads\Identify_New_Bikes\Identify_New_Bikes\target\classes;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-java\4.20.0\selenium-java-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-api\4.20.0\selenium-api-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.20.0\selenium-chrome-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.20.0\selenium-chromium-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-json\4.20.0\selenium-json-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.20.0\selenium-manager-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v122\4.20.0\selenium-devtools-v122-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v123\4.20.0\selenium-devtools-v123-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v124\4.20.0\selenium-devtools-v124-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.20.0\selenium-devtools-v85-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.20.0\selenium-edge-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.20.0\selenium-firefox-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-http\4.20.0\selenium-http-4.20.0.jar;C:\Users\2462007\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.20.0\selenium-ie-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.20.0\selenium-remote-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\com\google\guava\guava\33.1.0-jre\guava-33.1.0-jre.jar;C:\Users\2462007\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\2462007\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\2462007\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\2462007\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\2462007\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\2462007\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-api\1.37.0\opentelemetry-api-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-context\1.37.0\opentelemetry-context-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.37.0\opentelemetry-exporter-logging-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.37.0\opentelemetry-sdk-common-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.37.0\opentelemetry-sdk-extension-autoconfigure-spi-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.37.0\opentelemetry-sdk-extension-autoconfigure-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.37.0-alpha\opentelemetry-api-incubator-1.37.0-alpha.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.37.0\opentelemetry-sdk-trace-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.37.0\opentelemetry-sdk-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.37.0\opentelemetry-sdk-metrics-1.37.0.jar;C:\Users\2462007\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.37.0\opentelemetry-sdk-logs-1.37.0.jar;C:\Users\2462007\.m2\repository\net\bytebuddy\byte-buddy\1.14.14\byte-buddy-1.14.14.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-os\4.20.0\selenium-os-4.20.0.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.20.0\selenium-safari-driver-4.20.0.jar;C:\Users\2462007\.m2\repository\org\seleniumhq\selenium\selenium-support\4.20.0\selenium-support-4.20.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-junit\7.17.0\cucumber-junit-7.17.0.jar;C:\Users\2462007\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-core\7.17.0\cucumber-core-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-gherkin\7.17.0\cucumber-gherkin-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.17.0\cucumber-gherkin-messages-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\testng-xml-formatter\0.1.0\testng-xml-formatter-0.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\datatable\7.17.0\datatable-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-plugin\7.17.0\cucumber-plugin-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\docstring\7.17.0\docstring-7.17.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\html-formatter\21.3.1\html-formatter-21.3.1.jar;C:\Users\2462007\.m2\repository\io\cucumber\junit-xml-formatter\0.4.0\junit-xml-formatter-0.4.0.jar;C:\Users\2462007\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\2462007\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\2462007\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\2462007\.m2\repository\io\cucumber\cucumber-java\7.17.0\cucumber-java-7.17.0.jar;C:\Users\2462007\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\2462007\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\2462007\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\2462007\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\2462007\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\2462007\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\2462007\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\2462007\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\2462007\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\2462007\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\2462007\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\extentreports-cucumber7-adapter\1.14.0\extentreports-cucumber7-adapter-1.14.0.jar;C:\Users\2462007\.m2\repository\com\aventstack\extentreports\5.1.0\extentreports-5.1.0.jar;C:\Users\2462007\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\2462007\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\2462007\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\2462007\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\2462007\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\extent-pdf-report\2.12.0\extent-pdf-report-2.12.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\cucumber-pdf-report\2.14.0\cucumber-pdf-report-2.14.0.jar;C:\Users\2462007\.m2\repository\org\apache\pdfbox\pdfbox\2.0.26\pdfbox-2.0.26.jar;C:\Users\2462007\.m2\repository\org\apache\pdfbox\fontbox\2.0.26\fontbox-2.0.26.jar;C:\Users\2462007\.m2\repository\org\knowm\xchart\xchart\3.8.0\xchart-3.8.0.jar;C:\Users\2462007\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\2462007\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\2462007\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\2462007\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\table-layout\1.5.1\table-layout-1.5.1.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\rest-assured-cucumber-pdf-report\1.5.0\rest-assured-cucumber-pdf-report-1.5.0.jar;C:\Users\2462007\.m2\repository\org\jsoup\jsoup\1.15.3\jsoup-1.15.3.jar;C:\Users\2462007\.m2\repository\com\aventstack\klov-reporter\5.1.0\klov-reporter-5.1.0.jar;C:\Users\2462007\.m2\repository\org\mongodb\mongodb-driver\3.6.4\mongodb-driver-3.6.4.jar;C:\Users\2462007\.m2\repository\org\mongodb\mongodb-driver-core\3.6.4\mongodb-driver-core-3.6.4.jar;C:\Users\2462007\.m2\repository\org\mongodb\bson\3.6.4\bson-3.6.4.jar;C:\Users\2462007\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\2462007\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\2462007\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\2462007\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\htmlextentreporter\1.1.0\htmlextentreporter-1.1.0.jar;C:\Users\2462007\.m2\repository\tech\grasshopper\extent-excel-report\1.4.0\extent-excel-report-1.4.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="user.home" value="C:\Users\2462058"/>
+    <property name="user.home" value="C:\Users\2462007"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.version.date" value="2025-09-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-25"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\2462058\Downloads\Identify_New_Bikes (1)\Identify_New_Bikes"/>
+    <property name="basedir" value="C:\Users\2462007\Downloads\Identify_New_Bikes\Identify_New_Bikes"/>
     <property name="style.color" value="always"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\2462058\AppData\Local\Temp\surefire17671979692277912322\surefirebooter-20260216122632585_26.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\2462007\AppData\Local\Temp\surefire18410117989264779518\surefirebooter-20260217105953410_10.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25+37-LTS-3491"/>
-    <property name="user.name" value="2462058"/>
+    <property name="user.name" value="2462007"/>
     <property name="stdout.encoding" value="Cp1252"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="10.0"/>
@@ -44,273 +44,234 @@
     <property name="browser" value="edge"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.4\plugins\maven\lib\maven-event-listener.jar"/>
-    <property name="localRepository" value="C:\Users\2462058\.m2\repository"/>
+    <property name="localRepository" value="C:\Users\2462007\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
-    <property name="java.io.tmpdir" value="C:\Users\2462058\AppData\Local\Temp\"/>
+    <property name="java.io.tmpdir" value="C:\Users\2462007\AppData\Local\Temp\"/>
     <property name="idea.version" value="2025.2.4"/>
     <property name="java.version" value="25"/>
-    <property name="user.dir" value="C:\Users\2462058\Downloads\Identify_New_Bikes (1)\Identify_New_Bikes"/>
+    <property name="user.dir" value="C:\Users\2462007\Downloads\Identify_New_Bikes\Identify_New_Bikes"/>
     <property name="os.arch" value="amd64"/>
     <property name="jansi.passthrough" value="true"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Users\2462058\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.4\bin;C:\Users\2462058\AppData\Roaming\npm;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\2462007\AppData\Local\Microsoft\WindowsApps;C:\Users\2462007\AppData\Roaming\npm;C:\Users\2462007\Downloads\Open Source_Apache Software Foundation_Apache Maven_Windows_4.0.0_apache-maven-4.0.0-rc-4-bin\apache-maven-4.0.0-rc-4\bin;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25+37-LTS-3491"/>
     <property name="stdin.encoding" value="Cp1252"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="maven.repo.local" value="C:\Users\2462058\.m2\repository"/>
+    <property name="maven.repo.local" value="C:\Users\2462007\.m2\repository"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="Verify upcoming bikes for different manufacturers #1" classname="Upcoming Bikes Extraction" time="22.902">
-    <system-out><![CDATA[
-Scenario Outline: Verify upcoming bikes for different manufacturers &amp#27;[90m# features/basic.feature:12&amp#27;[0m
-12:26:35.433 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:26:42.524 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:26:42.552 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to Home Page&amp#27;[0m                                 &amp#27;[90m# stepDefinations.Basic.user_navigates_to_home_page()&amp#27;[0m
-12:26:42.690 [main] INFO  factory.BaseClass - Hovering over 'New Bikes' menu...
-12:26:43.531 [main] INFO  factory.BaseClass - Clicking on 'Upcoming Bikes' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser goes to New Bikes and Clicks Upcoming Bikes&amp#27;[0m             &amp#27;[90m# stepDefinations.Basic.user_goes_to_new_bikes_and_clicks_upcoming_bikes()&amp#27;[0m
-12:26:47.650 [main] INFO  factory.BaseClass - Successfully clicked Royal Enfield
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the manufacturer &amp#27;[0m&amp#27;[32m&amp#27;[1m"Royal Enfield"&amp#27;[0m                 &amp#27;[90m# stepDefinations.Basic.user_selects_the_manufacturer(java.lang.String)&amp#27;[0m
-12:26:47.857 [main] INFO  factory.BaseClass - Verifying page header for: Royal Enfield
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser sees the &amp#27;[0m&amp#27;[32m&amp#27;[1m"Royal Enfield"&amp#27;[0m&amp#27;[32m upcoming bikes page&amp#27;[0m            &amp#27;[90m# stepDefinations.Basic.user_sees_the_upcoming_bikes_page(java.lang.String)&amp#27;[0m
-12:26:51.365 [main] INFO  factory.BaseClass - Excel generated for Royal Enfield with TimeStamp column.
-12:26:51.366 [main] INFO  factory.BaseClass - Data export completed for: Royal Enfield
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser exports filtered bikes to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Royal Enfield"&amp#27;[0m      &amp#27;[90m# stepDefinations.Basic.user_exports_filtered_bikes_to_excel_for(java.lang.String)&amp#27;[0m
-12:26:51.370 [main] INFO  factory.BaseClass - Scenario PASSED: Verify upcoming bikes for different manufacturers
-12:26:51.371 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:26:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:26:38 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Verify upcoming bikes for different manufacturers #2" classname="Upcoming Bikes Extraction" time="20.891">
-    <system-out><![CDATA[
-Scenario Outline: Verify upcoming bikes for different manufacturers &amp#27;[90m# features/basic.feature:13&amp#27;[0m
-12:26:57.604 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:27:03.057 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:27:03.059 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to Home Page&amp#27;[0m                                 &amp#27;[90m# stepDefinations.Basic.user_navigates_to_home_page()&amp#27;[0m
-12:27:03.065 [main] INFO  factory.BaseClass - Hovering over 'New Bikes' menu...
-12:27:03.621 [main] INFO  factory.BaseClass - Clicking on 'Upcoming Bikes' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser goes to New Bikes and Clicks Upcoming Bikes&amp#27;[0m             &amp#27;[90m# stepDefinations.Basic.user_goes_to_new_bikes_and_clicks_upcoming_bikes()&amp#27;[0m
-12:27:07.438 [main] INFO  factory.BaseClass - Successfully clicked Yamaha
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the manufacturer &amp#27;[0m&amp#27;[32m&amp#27;[1m"Yamaha"&amp#27;[0m                        &amp#27;[90m# stepDefinations.Basic.user_selects_the_manufacturer(java.lang.String)&amp#27;[0m
-12:27:07.676 [main] INFO  factory.BaseClass - Verifying page header for: Yamaha
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser sees the &amp#27;[0m&amp#27;[32m&amp#27;[1m"Yamaha"&amp#27;[0m&amp#27;[32m upcoming bikes page&amp#27;[0m                   &amp#27;[90m# stepDefinations.Basic.user_sees_the_upcoming_bikes_page(java.lang.String)&amp#27;[0m
-12:27:11.532 [main] INFO  factory.BaseClass - Excel generated for Yamaha with TimeStamp column.
-12:27:11.534 [main] INFO  factory.BaseClass - Data export completed for: Yamaha
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser exports filtered bikes to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Yamaha"&amp#27;[0m             &amp#27;[90m# stepDefinations.Basic.user_exports_filtered_bikes_to_excel_for(java.lang.String)&amp#27;[0m
-12:27:11.538 [main] INFO  factory.BaseClass - Scenario PASSED: Verify upcoming bikes for different manufacturers
-12:27:11.538 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:27:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:27:00 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Verify upcoming bikes for different manufacturers #3" classname="Upcoming Bikes Extraction" time="14.593">
-    <system-out><![CDATA[
-Scenario Outline: Verify upcoming bikes for different manufacturers &amp#27;[90m# features/basic.feature:14&amp#27;[0m
-12:27:18.496 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:27:23.873 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:27:23.880 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to Home Page&amp#27;[0m                                 &amp#27;[90m# stepDefinations.Basic.user_navigates_to_home_page()&amp#27;[0m
-12:27:23.880 [main] INFO  factory.BaseClass - Hovering over 'New Bikes' menu...
-12:27:24.340 [main] INFO  factory.BaseClass - Clicking on 'Upcoming Bikes' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser goes to New Bikes and Clicks Upcoming Bikes&amp#27;[0m             &amp#27;[90m# stepDefinations.Basic.user_goes_to_new_bikes_and_clicks_upcoming_bikes()&amp#27;[0m
-12:27:27.540 [main] INFO  factory.BaseClass - Successfully clicked TVS
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the manufacturer &amp#27;[0m&amp#27;[32m&amp#27;[1m"TVS"&amp#27;[0m                           &amp#27;[90m# stepDefinations.Basic.user_selects_the_manufacturer(java.lang.String)&amp#27;[0m
-12:27:27.644 [main] INFO  factory.BaseClass - Verifying page header for: TVS
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser sees the &amp#27;[0m&amp#27;[32m&amp#27;[1m"TVS"&amp#27;[0m&amp#27;[32m upcoming bikes page&amp#27;[0m                      &amp#27;[90m# stepDefinations.Basic.user_sees_the_upcoming_bikes_page(java.lang.String)&amp#27;[0m
-12:27:28.256 [main] INFO  factory.BaseClass - Excel generated for TVS with TimeStamp column.
-12:27:28.256 [main] INFO  factory.BaseClass - Data export completed for: TVS
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser exports filtered bikes to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"TVS"&amp#27;[0m                &amp#27;[90m# stepDefinations.Basic.user_exports_filtered_bikes_to_excel_for(java.lang.String)&amp#27;[0m
-12:27:28.260 [main] INFO  factory.BaseClass - Scenario PASSED: Verify upcoming bikes for different manufacturers
-12:27:28.261 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:27:20 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:27:20 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Verify upcoming bikes for different manufacturers #4" classname="Upcoming Bikes Extraction" time="15.568">
-    <system-out><![CDATA[
-Scenario Outline: Verify upcoming bikes for different manufacturers &amp#27;[90m# features/basic.feature:15&amp#27;[0m
-12:27:33.088 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:27:38.514 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:27:38.514 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to Home Page&amp#27;[0m                                 &amp#27;[90m# stepDefinations.Basic.user_navigates_to_home_page()&amp#27;[0m
-12:27:38.522 [main] INFO  factory.BaseClass - Hovering over 'New Bikes' menu...
-12:27:39.051 [main] INFO  factory.BaseClass - Clicking on 'Upcoming Bikes' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser goes to New Bikes and Clicks Upcoming Bikes&amp#27;[0m             &amp#27;[90m# stepDefinations.Basic.user_goes_to_new_bikes_and_clicks_upcoming_bikes()&amp#27;[0m
-12:27:42.692 [main] INFO  factory.BaseClass - Successfully clicked Bajaj
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the manufacturer &amp#27;[0m&amp#27;[32m&amp#27;[1m"Bajaj"&amp#27;[0m                         &amp#27;[90m# stepDefinations.Basic.user_selects_the_manufacturer(java.lang.String)&amp#27;[0m
-12:27:42.754 [main] INFO  factory.BaseClass - Verifying page header for: Bajaj
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser sees the &amp#27;[0m&amp#27;[32m&amp#27;[1m"Bajaj"&amp#27;[0m&amp#27;[32m upcoming bikes page&amp#27;[0m                    &amp#27;[90m# stepDefinations.Basic.user_sees_the_upcoming_bikes_page(java.lang.String)&amp#27;[0m
-12:27:43.505 [main] INFO  factory.BaseClass - Excel generated for Bajaj with TimeStamp column.
-12:27:43.505 [main] INFO  factory.BaseClass - Data export completed for: Bajaj
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser exports filtered bikes to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Bajaj"&amp#27;[0m              &amp#27;[90m# stepDefinations.Basic.user_exports_filtered_bikes_to_excel_for(java.lang.String)&amp#27;[0m
-12:27:43.505 [main] INFO  factory.BaseClass - Scenario PASSED: Verify upcoming bikes for different manufacturers
-12:27:43.505 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:27:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:27:35 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Verify upcoming bikes for different manufacturers #5" classname="Upcoming Bikes Extraction" time="16.405">
-    <system-out><![CDATA[
-Scenario Outline: Verify upcoming bikes for different manufacturers &amp#27;[90m# features/basic.feature:16&amp#27;[0m
-12:27:48.658 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:27:54.413 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:27:54.424 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to Home Page&amp#27;[0m                                 &amp#27;[90m# stepDefinations.Basic.user_navigates_to_home_page()&amp#27;[0m
-12:27:54.424 [main] INFO  factory.BaseClass - Hovering over 'New Bikes' menu...
-12:27:55.134 [main] INFO  factory.BaseClass - Clicking on 'Upcoming Bikes' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser goes to New Bikes and Clicks Upcoming Bikes&amp#27;[0m             &amp#27;[90m# stepDefinations.Basic.user_goes_to_new_bikes_and_clicks_upcoming_bikes()&amp#27;[0m
-12:27:58.689 [main] INFO  factory.BaseClass - Successfully clicked Hero Moto Corp
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the manufacturer &amp#27;[0m&amp#27;[32m&amp#27;[1m"Hero Moto Corp"&amp#27;[0m                &amp#27;[90m# stepDefinations.Basic.user_selects_the_manufacturer(java.lang.String)&amp#27;[0m
-12:27:58.804 [main] INFO  factory.BaseClass - Verifying page header for: Hero Moto Corp
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser sees the &amp#27;[0m&amp#27;[32m&amp#27;[1m"Hero Moto Corp"&amp#27;[0m&amp#27;[32m upcoming bikes page&amp#27;[0m           &amp#27;[90m# stepDefinations.Basic.user_sees_the_upcoming_bikes_page(java.lang.String)&amp#27;[0m
-12:27:59.627 [main] INFO  factory.BaseClass - Excel generated for Hero Moto Corp with TimeStamp column.
-12:27:59.633 [main] INFO  factory.BaseClass - Data export completed for: Hero Moto Corp
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser exports filtered bikes to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Hero Moto Corp"&amp#27;[0m     &amp#27;[90m# stepDefinations.Basic.user_exports_filtered_bikes_to_excel_for(java.lang.String)&amp#27;[0m
-12:27:59.633 [main] INFO  factory.BaseClass - Scenario PASSED: Verify upcoming bikes for different manufacturers
-12:27:59.633 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:27:51 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:27:51 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Attempt Google login with invalid credentials" classname="Google login via ZigWheels" time="47.404">
-    <failure message="Automation Blocked" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Automation Blocked
-	at org.junit.Assert.fail(Assert.java:89)
-	at stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(LoginSteps.java:48)
-	at ✽.user attempts Google login with credentials from sheet "Google"(file:///C:/Users/2462058/Downloads/Identify_New_Bikes%20(1)/Identify_New_Bikes/./features/googlelogin.feature:9)
-]]></failure>
+  <testcase name="Attempt Google login with invalid credentials" classname="Google login via ZigWheels" time="42.071">
+    <error message="Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator &apos;By.id: identifierId&apos; (tried for 20 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException"><![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: identifierId' (tried for 20 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at pageObjects.GoogleLoginPage.attemptLogin(GoogleLoginPage.java:60)
+	at stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(LoginSteps.java:47)
+	at ✽.user attempts Google login with credentials from sheet "Google"(file:///C:/Users/2462007/Downloads/Identify_New_Bikes/Identify_New_Bikes/./features/googlelogin.feature:9)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#identifierId"}
+  (Session info: MicrosoftEdge=145.0.3800.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [02c7c6b42c8bf44e11b899135435a626, findElement {value=identifierId, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 145.0.3800.58, fedcm:accounts: true, goog:processID: 11380, ms:edgeOptions: {debuggerAddress: localhost:52484}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\2462007\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52484/devtoo..., se:cdpVersion: 145.0.3800.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 02c7c6b42c8bf44e11b899135435a626
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	at pageObjects.GoogleLoginPage.attemptLogin(GoogleLoginPage.java:60)
+	at stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(LoginSteps.java:47)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:316)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:240)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:214)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></error>
     <system-out><![CDATA[
 @GoogleLogin
 Scenario: Attempt Google login with invalid credentials               &amp#27;[90m# features/googlelogin.feature:6&amp#27;[0m
-12:28:05.078 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:28:10.526 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:28:10.534 [main] INFO  factory.BaseClass - User is on the Home Page
+10:59:55.465 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
+10:59:59.208 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
+10:59:59.227 [main] INFO  factory.BaseClass - User is on the Home Page
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to Home Page&amp#27;[0m                                   &amp#27;[90m# stepDefinations.Basic.user_navigates_to_home_page()&amp#27;[0m
-12:28:10.534 [main] INFO  factory.BaseClass - Opening login and clicking Continue with Google...
-12:28:10.534 [main] INFO  factory.BaseClass - Opening Login popup/modal...
-12:28:11.217 [main] INFO  factory.BaseClass - Login UI opened.
-12:28:11.217 [main] INFO  factory.BaseClass - Clicking 'Continue with Google'...
+10:59:59.272 [main] INFO  factory.BaseClass - Opening login and clicking Continue with Google...
+10:59:59.277 [main] INFO  factory.BaseClass - Opening Login popup/modal...
+10:59:59.881 [main] INFO  factory.BaseClass - Login UI opened.
+10:59:59.883 [main] INFO  factory.BaseClass - Clicking 'Continue with Google'...
   &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser goes to login and clicks Google&amp#27;[0m                           &amp#27;[90m# stepDefinations.LoginSteps.user_goes_to_login_and_clicks_google()&amp#27;[0m
-12:28:12.173 [main] INFO  factory.BaseClass - Waiting for Google login window to open...
-12:28:14.182 [main] INFO  factory.BaseClass - Switched to Google window. Title: 
-12:28:14.283 [main] INFO  factory.BaseClass - Attempting Google login with email: mytestid@gmail.com
-12:28:14.283 [main] INFO  factory.BaseClass - Entering email on Google...
-12:28:15.210 [main] INFO  factory.BaseClass - Entering password on Google...
-12:28:47.138 [main] WARN  factory.BaseClass - Password field not visible. Google may have blocked automation or email invalid.
+11:00:00.368 [main] INFO  factory.BaseClass - Waiting for Google login window to open...
+11:00:00.653 [main] INFO  factory.BaseClass - Switched to Google window. Title: Permission prompt
+11:00:01.632 [main] INFO  factory.BaseClass - Attempting Google login with email: mytestid@gmail.com
+11:00:01.634 [main] INFO  factory.BaseClass - Entering email on Google...
   &amp#27;[31mAnd &amp#27;[0m&amp#27;[31muser attempts Google login with credentials from sheet &amp#27;[0m&amp#27;[31m&amp#27;[1m"Google"&amp#27;[0m &amp#27;[90m# stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(java.lang.String)&amp#27;[0m
-      &amp#27;[31mjava.lang.AssertionError: Automation Blocked
-	at org.junit.Assert.fail(Assert.java:89)
-	at stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(LoginSteps.java:48)
-	at ✽.user attempts Google login with credentials from sheet "Google"(file:///C:/Users/2462058/Downloads/Identify_New_Bikes%20(1)/Identify_New_Bikes/./features/googlelogin.feature:9)
+      &amp#27;[31morg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: identifierId' (tried for 20 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at pageObjects.GoogleLoginPage.attemptLogin(GoogleLoginPage.java:60)
+	at stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(LoginSteps.java:47)
+	at ✽.user attempts Google login with credentials from sheet "Google"(file:///C:/Users/2462007/Downloads/Identify_New_Bikes/Identify_New_Bikes/./features/googlelogin.feature:9)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#identifierId"}
+  (Session info: MicrosoftEdge=145.0.3800.58)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [02c7c6b42c8bf44e11b899135435a626, findElement {value=identifierId, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 145.0.3800.58, fedcm:accounts: true, goog:processID: 11380, ms:edgeOptions: {debuggerAddress: localhost:52484}, msedge: {msedgedriverVersion: 144.0.3719.115 (4ee501a4f64..., userDataDir: C:\Users\2462007\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52484/devtoo..., se:cdpVersion: 145.0.3800.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 02c7c6b42c8bf44e11b899135435a626
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	at pageObjects.GoogleLoginPage.attemptLogin(GoogleLoginPage.java:60)
+	at stepDefinations.LoginSteps.user_attempts_google_login_with_credentials_from_sheet(LoginSteps.java:47)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:316)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:240)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:214)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 &amp#27;[0m
   &amp#27;[36mThen &amp#27;[0m&amp#27;[36mmark the test as failed intentionally after invalid login&amp#27;[0m      &amp#27;[90m# stepDefinations.LoginSteps.mark_the_test_as_failed_intentionally_after_invalid_login()&amp#27;[0m
-12:28:47.164 [main] ERROR factory.BaseClass - Scenario FAILED: Attempt Google login with invalid credentials
+11:00:32.567 [main] ERROR factory.BaseClass - Scenario FAILED: Attempt Google login with invalid credentials
 
-    Embedding Attempt Google login with invalid credentials [image/png 40473 bytes]
+    Embedding Attempt Google login with invalid credentials [image/png 11404 bytes]
 
-12:28:47.295 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
+11:00:32.656 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
 ]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:28:07 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:28:07 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Checking Used cars page #1" classname="Going to Used Cars Page" time="54.183">
-    <system-out><![CDATA[
-Scenario Outline: Checking Used cars page                     &amp#27;[90m# features/usedcars.feature:13&amp#27;[0m
-12:28:52.472 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:28:57.063 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:28:57.068 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to HomePage&amp#27;[0m                            &amp#27;[90m# stepDefinations.UsedCars.user_navigates_to_home_page()&amp#27;[0m
-12:28:57.071 [main] INFO  factory.BaseClass - Hovering over 'More' menu...
-12:28:58.396 [main] INFO  factory.BaseClass - Clicking on 'Used Cars' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mUser navigates to Used Cars page&amp#27;[0m                       &amp#27;[90m# stepDefinations.UsedCars.user_navigates_to_used_cars_page()&amp#27;[0m
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the city &amp#27;[0m&amp#27;[32m&amp#27;[1m"Chennai"&amp#27;[0m                         &amp#27;[90m# stepDefinations.UsedCars.user_selects_the_city(java.lang.String)&amp#27;[0m
-12:29:03.584 [main] INFO  factory.BaseClass - Starting infinite scroll for Chennai
-12:29:18.416 [main] INFO  factory.BaseClass - Reached the end: 'That's all Folks!!' is visible.
-12:29:38.933 [main] INFO  factory.BaseClass - Extraction complete for city: Chennai
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser exports filtered used cars to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Chennai"&amp#27;[0m &amp#27;[90m# stepDefinations.UsedCars.user_exports_filtered_used_cars_to_excel_for(java.lang.String)&amp#27;[0m
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mchecks if thats Used cars page or not &amp#27;[0m&amp#27;[32m&amp#27;[1m"Chennai"&amp#27;[0m        &amp#27;[90m# stepDefinations.UsedCars.checks_if_thats_used_cars_page_or_not(java.lang.String)&amp#27;[0m
-12:29:39.005 [main] INFO  factory.BaseClass - Scenario PASSED: Checking Used cars page
-12:29:39.005 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:28:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:28:54 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Checking Used cars page #2" classname="Going to Used Cars Page" time="197.249">
-    <system-out><![CDATA[
-Scenario Outline: Checking Used cars page                       &amp#27;[90m# features/usedcars.feature:14&amp#27;[0m
-12:29:46.654 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:29:52.239 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:29:52.239 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to HomePage&amp#27;[0m                              &amp#27;[90m# stepDefinations.UsedCars.user_navigates_to_home_page()&amp#27;[0m
-12:29:52.246 [main] INFO  factory.BaseClass - Hovering over 'More' menu...
-12:29:52.935 [main] INFO  factory.BaseClass - Clicking on 'Used Cars' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mUser navigates to Used Cars page&amp#27;[0m                         &amp#27;[90m# stepDefinations.UsedCars.user_navigates_to_used_cars_page()&amp#27;[0m
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the city &amp#27;[0m&amp#27;[32m&amp#27;[1m"Bangalore"&amp#27;[0m                         &amp#27;[90m# stepDefinations.UsedCars.user_selects_the_city(java.lang.String)&amp#27;[0m
-12:29:58.644 [main] INFO  factory.BaseClass - Starting infinite scroll for Bangalore
-12:31:09.786 [main] INFO  factory.BaseClass - Reached the end: 'That's all Folks!!' is visible.
-12:32:54.039 [main] INFO  factory.BaseClass - Extraction complete for city: Bangalore
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser exports filtered used cars to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Bangalore"&amp#27;[0m &amp#27;[90m# stepDefinations.UsedCars.user_exports_filtered_used_cars_to_excel_for(java.lang.String)&amp#27;[0m
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mchecks if thats Used cars page or not &amp#27;[0m&amp#27;[32m&amp#27;[1m"Bangalore"&amp#27;[0m        &amp#27;[90m# stepDefinations.UsedCars.checks_if_thats_used_cars_page_or_not(java.lang.String)&amp#27;[0m
-12:32:54.090 [main] INFO  factory.BaseClass - Scenario PASSED: Checking Used cars page
-12:32:54.090 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:29:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:29:49 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
-]]></system-err>
-  </testcase>
-  <testcase name="Checking Used cars page #3" classname="Going to Used Cars Page" time="224.31">
-    <system-out><![CDATA[
-Scenario Outline: Checking Used cars page                    &amp#27;[90m# features/usedcars.feature:15&amp#27;[0m
-12:33:03.915 [main] INFO  factory.BaseClass - ***** Starting Scenario execution *****
-12:33:10.070 [main] INFO  factory.BaseClass - Browser launched and navigated to URL.
-12:33:10.070 [main] INFO  factory.BaseClass - User is on the Home Page
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mUser navigates to HomePage&amp#27;[0m                           &amp#27;[90m# stepDefinations.UsedCars.user_navigates_to_home_page()&amp#27;[0m
-12:33:10.070 [main] INFO  factory.BaseClass - Hovering over 'More' menu...
-12:33:10.613 [main] INFO  factory.BaseClass - Clicking on 'Used Cars' option...
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mUser navigates to Used Cars page&amp#27;[0m                      &amp#27;[90m# stepDefinations.UsedCars.user_navigates_to_used_cars_page()&amp#27;[0m
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser selects the city &amp#27;[0m&amp#27;[32m&amp#27;[1m"Mumbai"&amp#27;[0m                         &amp#27;[90m# stepDefinations.UsedCars.user_selects_the_city(java.lang.String)&amp#27;[0m
-12:33:15.978 [main] INFO  factory.BaseClass - Starting infinite scroll for Mumbai
-12:34:41.813 [main] INFO  factory.BaseClass - Reached the end: 'That's all Folks!!' is visible.
-12:36:38.472 [main] INFO  factory.BaseClass - Extraction complete for city: Mumbai
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser exports filtered used cars to excel for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Mumbai"&amp#27;[0m &amp#27;[90m# stepDefinations.UsedCars.user_exports_filtered_used_cars_to_excel_for(java.lang.String)&amp#27;[0m
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mchecks if thats Used cars page or not &amp#27;[0m&amp#27;[32m&amp#27;[1m"Mumbai"&amp#27;[0m        &amp#27;[90m# stepDefinations.UsedCars.checks_if_thats_used_cars_page_or_not(java.lang.String)&amp#27;[0m
-12:36:38.505 [main] INFO  factory.BaseClass - Scenario PASSED: Checking Used cars page
-12:36:38.505 [main] INFO  factory.BaseClass - ***** Ending Scenario execution *****
-]]></system-out>
-    <system-err><![CDATA[Feb 16, 2026 12:33:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find CDP implementation matching 144
-Feb 16, 2026 12:33:06 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
-WARNING: Unable to find version of CDP to use for 144.0.3719.115. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+    <system-err><![CDATA[Feb 17, 2026 10:59:57 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 145
+Feb 17, 2026 10:59:57 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 145.0.3800.58. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
 </testsuite>
